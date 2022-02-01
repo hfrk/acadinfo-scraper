@@ -2,10 +2,10 @@
     {
         "#": "1",
         "Hari/Jam": "Senin 00:00 WIB",
-        "Matakuliah": "Praktikum Sains Dasar TKU212121P 1 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Dzuhri Radityo Utomo, S.T, M.E., Ph.D",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Matakuliah": "Kalkulus Variabel Jamak TKU211103 3 SKS",
+        "Kelas": "A",
+        "Dosen": "Dosen Dummy,",
+        "URL": [
             "KELAS:",
             "PRESENSI:",
             "WAG/Telegram:"
@@ -18,42 +18,42 @@
     {
         "#": "2",
         "Hari/Jam": "Senin 00:00 WIB",
-        "Matakuliah": "Praktikum Sains Dasar TKU212121P 1 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Ir. Prapto Nugroho, S.T., M.Eng., D.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/saindasar2021A",
+        "Matakuliah": "Persamaan Diferensial TKU211203 3 SKS",
+        "Kelas": "C",
+        "Dosen": "Dosen Dummy,",
+        "URL": [
+            "KELAS:",
             "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "tidak ada password",
+            "",
             "Pertemuan ke:"
         ]
     },
     {
         "#": "3",
         "Hari/Jam": "Senin 00:00 WIB",
-        "Matakuliah": "Praktikum Sains Dasar TKU212121P 1 SKS",
-        "Kelas": "C",
-        "Dosen Pengampu": "Ir. Prapto Nugroho, S.T., M.Eng., D.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/saindasar2021A",
+        "Matakuliah": "Persamaan Diferensial TKU211203 3 SKS",
+        "Kelas": "D",
+        "Dosen": "Dosen Dummy,",
+        "URL": [
+            "KELAS:",
             "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "tidak ada password",
+            "",
             "Pertemuan ke:"
         ]
     },
     {
         "#": "4",
-        "Hari/Jam": "Senin 00:00 WIB",
-        "Matakuliah": "Praktikum Sains Dasar TKU212121P 1 SKS",
-        "Kelas": "C",
-        "Dosen Pengampu": "Dzuhri Radityo Utomo, S.T, M.E., Ph.D",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Elektronika Dasar TKU212242 3 SKS",
+        "Kelas": "A",
+        "Dosen": "Ir. Prapto Nugroho, S.T., M.Eng., D.Eng., IPM.",
+        "URL": [
             "KELAS:",
             "PRESENSI:",
             "WAG/Telegram:"
@@ -65,13 +65,13 @@
     },
     {
         "#": "5",
-        "Hari/Jam": "Senin 00:00 WIB",
-        "Matakuliah": "Proyek Perancangan Teknik Elektro 2 TKU214141 2 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Fisika Listrik Dan Magnet TKU211221 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Prof. Dr. Ir. Sasongko Pramono H, DEA.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Dzuhri Radityo Utomo, S.T, M.E., Ph.D",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/Fh7bapKMEucqDiUw7",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -81,13 +81,13 @@
     },
     {
         "#": "6",
-        "Hari/Jam": "Senin 00:00 WIB",
-        "Matakuliah": "Proyek Perancangan Teknologi Informasi 2 TIF214141 2 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Fisika Listrik Dan Magnet TKU211221 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Prof. Dr. Ir. Sasongko Pramono H, DEA.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Ir. Eka Firmansyah, S.T., M.Eng., Ph.D., IPM.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/862ZgW7XwPqEbN2r7",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -98,12 +98,12 @@
     {
         "#": "7",
         "Hari/Jam": "Senin 07:00 WIB",
-        "Matakuliah": "Kimia Dasar TKB211101 2 SKS",
+        "Matakuliah": "Jaringan Komputer TIF212246 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr. Sri Sudiono, S.Si, M.Si.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://meet.google.com/ncx-okmd-gqp",
-            "PRESENSI: https://forms.gle/V6FpKBDgHdykYNMK9",
+        "Dosen": "Azkario Rizky Pratama, S.T., M.Eng., Ph.D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -114,10 +114,10 @@
     {
         "#": "8",
         "Hari/Jam": "Senin 07:00 WIB",
-        "Matakuliah": "Kimia Dasar TKB211101 2 SKS",
+        "Matakuliah": "Jaringan Komputer TIF212246 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr. Deni Pranowo, S.Si., M.Si.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Muhammad Nur Rizal, S.T., M. Eng., Ph.D.",
+        "URL": [
             "KELAS:",
             "PRESENSI:",
             "WAG/Telegram:"
@@ -130,10 +130,10 @@
     {
         "#": "9",
         "Hari/Jam": "Senin 07:00 WIB",
-        "Matakuliah": "Praktikum Sains Dasar TKU212121P 1 SKS",
+        "Matakuliah": "Jaringan Telekomunikasi TKE215114 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Fikri Waskito, S.T., M.Eng.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Ir. Wahyu Dewanto, M.T.",
+        "URL": [
             "KELAS:",
             "PRESENSI:",
             "WAG/Telegram:"
@@ -146,10 +146,10 @@
     {
         "#": "10",
         "Hari/Jam": "Senin 07:00 WIB",
-        "Matakuliah": "Praktikum Sains Dasar TKU212121P 1 SKS",
+        "Matakuliah": "Kompatibilitas Elektromagnetik TKE215206 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dzuhri Radityo Utomo, S.T, M.E., Ph.D",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Harry Prabowo, S.T., M.T.",
+        "URL": [
             "KELAS:",
             "PRESENSI:",
             "WAG/Telegram:"
@@ -162,10 +162,10 @@
     {
         "#": "11",
         "Hari/Jam": "Senin 07:00 WIB",
-        "Matakuliah": "Praktikum Sains Dasar TKU212121P 1 SKS",
+        "Matakuliah": "Pengujian Perangkat Lunak TIF215114 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr. Dyonisius Dony Ariananda, S.T., M.Sc.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Teguh Bharata Adji, S.T., M.T., M.Eng., Ph.D.",
+        "URL": [
             "KELAS:",
             "PRESENSI:",
             "WAG/Telegram:"
@@ -178,26 +178,26 @@
     {
         "#": "12",
         "Hari/Jam": "Senin 07:00 WIB",
-        "Matakuliah": "Praktikum Sains Dasar TKU212121P 1 SKS",
+        "Matakuliah": "Praktikum Pemrograman Dasar TKU211131P 1 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Prapto Nugroho, S.T., M.Eng., D.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/saindasar2021A",
+        "Dosen": "Ahmad Ataka Awwalur Rizqi , S.T., Ph.D",
+        "URL": [
+            "KELAS:",
             "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "tidak ada password",
+            "",
             "Pertemuan ke:"
         ]
     },
     {
         "#": "13",
         "Hari/Jam": "Senin 07:00 WIB",
-        "Matakuliah": "Praktikum Sains Dasar TKU212121P 1 SKS",
+        "Matakuliah": "Praktikum Pemrograman Dasar TKU211131P 1 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Husni Rois Ali, S.T., M.Eng., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Syukron Abu Ishaq Alfarozi, S.T., Ph.D.",
+        "URL": [
             "KELAS:",
             "PRESENSI:",
             "WAG/Telegram:"
@@ -210,10 +210,10 @@
     {
         "#": "14",
         "Hari/Jam": "Senin 07:00 WIB",
-        "Matakuliah": "Praktikum Sains Dasar TKU212121P 1 SKS",
+        "Matakuliah": "Praktikum Pemrograman Dasar TKU211131P 1 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr.Eng. Ir. Adha Imam Cahyadi, S.T., M.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Bimo Sunarfri Hantono, S.T., M.Eng.",
+        "URL": [
             "KELAS:",
             "PRESENSI:",
             "WAG/Telegram:"
@@ -226,11 +226,11 @@
     {
         "#": "15",
         "Hari/Jam": "Senin 07:00 WIB",
-        "Matakuliah": "Praktikum Sains Dasar TKU212121P 1 SKS",
+        "Matakuliah": "Praktikum Pemrograman Dasar TKU211131P 1 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Syukron Abu Ishaq Alfarozi, S.T., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/praksainsdasar",
+        "Dosen": "Dr. Indriana Hidayah, S.T., M.T.",
+        "URL": [
+            "KELAS:",
             "PRESENSI:",
             "WAG/Telegram:"
         ],
@@ -241,45 +241,45 @@
     },
     {
         "#": "16",
-        "Hari/Jam": "Senin 07:15 WIB",
-        "Matakuliah": "Antena Dan Perambatan Gelombang TKE215111 3 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Praktikum Pemrograman Dasar TKU211131P 1 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Iswandi, S.T., M.Eng.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/channel/19%3abjrHTwQgqdIdhhskdgciZwU6QIWtOwK7BEYZGIyCZYc1%40thread.tacv2/General?groupId=4124e114-1343-4877-be41-710a26175da8&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/DnBSj8SAEL87b4z7A",
+        "Dosen": "Dr.Eng. Silmi Fauziati, S.T., M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "https://teams.microsoft.com/l/meetup-join/19%3abjrHTwQgqdIdhhskdgciZwU6QIWtOwK7BEYZGIyCZYc1%40thread.tacv2/1628833813351?context=%7b%22Tid%22%3a%22af2c0734-cb42-464f-b6bf-2a241b6ada56%22%2c%22Oid%22%3a%222a5d1027-976d-43e1-ab29-5c189bd5e555%22%7d",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "17",
-        "Hari/Jam": "Senin 07:15 WIB",
-        "Matakuliah": "Arsitektur Komputer TKE215120 2 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Praktikum Pemrograman Dasar TKU211131P 1 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Addin Suwastono, S.T., M.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/channel/19%3aba00e72f336f414a9885d75d8b5a2b66%40thread.tacv2/General?groupId=86e1a162-03e8-4ccc-8ecc-8c3f6e711f03&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/Gb4osbvHd7onZDCF6",
-            "WAG/Telegram: https://chat.whatsapp.com/ITzfDaXMi7Y5gPHd68stzF"
+        "Dosen": "Azkario Rizky Pratama, S.T., M.Eng., Ph.D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "18",
-        "Hari/Jam": "Senin 07:15 WIB",
-        "Matakuliah": "Bahasa Indonesia Dan Penulisan Ilmiah UNU211101 2 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Dr. Y. Bandung, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Perancangan Teknik Biomedis 1 TKB213204 2 SKS",
+        "Kelas": "A",
+        "Dosen": "Ir. Prapto Nugroho, S.T., M.Eng., D.Eng., IPM.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/LQ5KL7XgZN7hrAKRA",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -289,13 +289,13 @@
     },
     {
         "#": "19",
-        "Hari/Jam": "Senin 07:15 WIB",
-        "Matakuliah": "Bahasa Indonesia Dan Penulisan Ilmiah UNU211101 2 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Dr.Eng. Ir. Sunu Wibirama, S.T., M.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Perancangan Teknik Biomedis 1 TKB213204 2 SKS",
+        "Kelas": "A",
+        "Dosen": "Bimo Sunarfri Hantono, S.T., M.Eng.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/LQ5KL7XgZN7hrAKRA",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -305,29 +305,29 @@
     },
     {
         "#": "20",
-        "Hari/Jam": "Senin 07:15 WIB",
-        "Matakuliah": "Bahasa Indonesia Dan Penulisan Ilmiah UNU211101 2 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Azkario Rizky Pratama, S.T., M.Eng., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/bipi2021b",
-            "PRESENSI: https://forms.gle/LQ5KL7XgZN7hrAKRA",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Perancangan Teknik Biomedis 1 TKB213204 2 SKS",
+        "Kelas": "A",
+        "Dosen": "Husni Rois Ali, S.T., M.Eng., Ph.D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 8,9,10,11,12,13,14"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "21",
-        "Hari/Jam": "Senin 07:15 WIB",
-        "Matakuliah": "Bahasa Indonesia Dan Penulisan Ilmiah UNU211101 2 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Dr. Indriana Hidayah, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Perancangan Teknik Biomedis 1 TKB213204 2 SKS",
+        "Kelas": "A",
+        "Dosen": "Ir. Eka Firmansyah, S.T., M.Eng., Ph.D., IPM.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/LQ5KL7XgZN7hrAKRA",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -337,29 +337,29 @@
     },
     {
         "#": "22",
-        "Hari/Jam": "Senin 07:15 WIB",
-        "Matakuliah": "Elektronika Analog TKE213101 2 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Perancangan Teknik Biomedis 1 TKB213204 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Prapto Nugroho, S.T., M.Eng., D.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/ELAN2021A",
-            "PRESENSI: https://forms.gle/y4YNMAzBYNW1qVEz8",
+        "Dosen": "Dzuhri Radityo Utomo, S.T, M.E., Ph.D",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "tidak ada password",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "23",
-        "Hari/Jam": "Senin 07:15 WIB Rabu 13:00 WIB",
-        "Matakuliah": "Fisika Fluida, Kalor Dan Gelombang TKU211122 2 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Perancangan Teknik Biomedis 1 TKB213204 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dzuhri Radityo Utomo, S.T, M.E., Ph.D",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Dr.Eng. Igi Ardiyanto, S.T., M.Eng.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/fFJ8cKvT2yfHNSak8",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -369,29 +369,29 @@
     },
     {
         "#": "24",
-        "Hari/Jam": "Senin 07:15 WIB Rabu 13:00 WIB",
-        "Matakuliah": "Fisika Fluida, Kalor Dan Gelombang TKU211122 2 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Perancangan Teknik Biomedis 1 TKB213204 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Eka Firmansyah, S.T., M.Eng., Ph.D., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://classroom.google.com/c/Mzc5Nzg2ODA4MTA0?cjc=x2yseb4",
-            "PRESENSI: https://forms.gle/fFJ8cKvT2yfHNSak8",
+        "Dosen": "Ahmad Ataka Awwalur Rizqi , S.T., Ph.D",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "URL Meeting Kelas: https://teams.microsoft.com/l/meetup-join/19%3a49c52e00a6034328a42723d0788a78fb%40thread.tacv2/1628839420221?context=%7b%22Tid%22%3a%22af2c0734-cb42-464f-b6bf-2a241b6ada56%22%2c%22Oid%22%3a%22da92496f-a61b-4366-982a-a687a3a76263%22%7d",
-            "Pertemuan ke: 1,2"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "25",
-        "Hari/Jam": "Senin 07:15 WIB Rabu 13:00 WIB",
-        "Matakuliah": "Fisika Fluida, Kalor Dan Gelombang TKU211122 2 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Perancangan Teknik Biomedis 1 TKB213204 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ahmad Ataka Awwalur Rizqi , S.T., Ph.D",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Syukron Abu Ishaq Alfarozi, S.T., Ph.D.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/fFJ8cKvT2yfHNSak8",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -401,13 +401,13 @@
     },
     {
         "#": "26",
-        "Hari/Jam": "Senin 07:15 WIB Rabu 13:00 WIB",
-        "Matakuliah": "Fisika Mekanika Klasik TKU211121 2 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Perancangan Teknik Elektro 1 TKU213242 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dzuhri Radityo Utomo, S.T, M.E., Ph.D",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Dr.Eng. Ir. Adha Imam Cahyadi, S.T., M.Eng., IPM.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/jZreNxxEawubq6kK7",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -417,77 +417,77 @@
     },
     {
         "#": "27",
-        "Hari/Jam": "Senin 07:15 WIB Rabu 13:00 WIB",
-        "Matakuliah": "Fisika Mekanika Klasik TKU211121 2 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Perancangan Teknik Elektro 1 TKU213242 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Eka Firmansyah, S.T., M.Eng., Ph.D., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://classroom.google.com/c/Mzc5Nzg2ODA0Mzgz?cjc=mibc5rt",
-            "PRESENSI: https://forms.gle/jZreNxxEawubq6kK7",
+        "Dosen": "Prof. Dr. Ir. Sasongko Pramono H, DEA.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "URL Meeting Kelas: https://teams.microsoft.com/l/meetup-join/19%3a49c52e00a6034328a42723d0788a78fb%40thread.tacv2/1628839420221?context=%7b%22Tid%22%3a%22af2c0734-cb42-464f-b6bf-2a241b6ada56%22%2c%22Oid%22%3a%22da92496f-a61b-4366-982a-a687a3a76263%22%7d",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "28",
-        "Hari/Jam": "Senin 07:15 WIB",
-        "Matakuliah": "Kompatibilitas Elektromagnetik TKE215206 3 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Perancangan Teknik Elektro 1 TKU213242 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Harry Prabowo, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://tinyurl.com/KompEl-Ganjil2021",
-            "PRESENSI: https://forms.gle/2QwEjJKGv2ZsEQ5o7",
+        "Dosen": "Ahmad Ataka Awwalur Rizqi , S.T., Ph.D",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "29",
-        "Hari/Jam": "Senin 07:15 WIB",
-        "Matakuliah": "Programmable Logic Controller (PLC) Dan Praktikum TKE215225 3 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Perancangan Teknik Elektro 1 TKU213242 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Enas Dhuhri Kusuma, S.T., M.Eng.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3aiyqZy_Ae1m7NYm76cxBiiu8f6edPZtPVSyjhR6dRiKs1%40thread.tacv2/conversations?groupId=2167bbc4-4142-47d1-a3f7-ece729e1517a&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/wQrqKuiaSNKXgzB6A",
-            "WAG/Telegram: https://chat.whatsapp.com/HA5TQB7M2xlDLUhcnnnFjJ"
+        "Dosen": "Husni Rois Ali, S.T., M.Eng., Ph.D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "30",
-        "Hari/Jam": "Senin 07:15 WIB",
-        "Matakuliah": "Programmable Logic Controller (PLC) Dan Praktikum TKE215225 3 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Perancangan Teknik Elektro 1 TKU213242 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Sujoko Sumaryono, M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3aiyqZy_Ae1m7NYm76cxBiiu8f6edPZtPVSyjhR6dRiKs1%40thread.tacv2/conversations?groupId=2167bbc4-4142-47d1-a3f7-ece729e1517a&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/wQrqKuiaSNKXgzB6A",
+        "Dosen": "Ir. Eka Firmansyah, S.T., M.Eng., Ph.D., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "Kode Tim: 8uviu4c",
-            "Pertemuan ke: 11,12,13,14"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "31",
-        "Hari/Jam": "Senin 10:00 WIB",
-        "Matakuliah": "Bahasa Indonesia Dan Penulisan Ilmiah UNU211101 2 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Perancangan Teknik Elektro 1 TKU213242 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr. Indriana Hidayah, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Bimo Sunarfri Hantono, S.T., M.Eng.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/Ni1wKhVdDTcExPep8",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -497,13 +497,13 @@
     },
     {
         "#": "32",
-        "Hari/Jam": "Senin 10:00 WIB",
-        "Matakuliah": "Bahasa Indonesia Dan Penulisan Ilmiah UNU211101 2 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Perancangan Teknik Elektro 1 TKU213242 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr. Y. Bandung, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Roni Irnawan, S.T., M.Sc., Ph.D.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/Ni1wKhVdDTcExPep8",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -513,13 +513,13 @@
     },
     {
         "#": "33",
-        "Hari/Jam": "Senin 10:00 WIB",
-        "Matakuliah": "Bahasa Indonesia Dan Penulisan Ilmiah UNU211101 2 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Perancangan Teknik Elektro 1 TKU213242 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr.Eng. Ir. Sunu Wibirama, S.T., M.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Dzuhri Radityo Utomo, S.T, M.E., Ph.D",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/Ni1wKhVdDTcExPep8",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -529,29 +529,29 @@
     },
     {
         "#": "34",
-        "Hari/Jam": "Senin 10:00 WIB",
-        "Matakuliah": "Bahasa Indonesia Dan Penulisan Ilmiah UNU211101 2 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Perancangan Teknologi Informasi 1 TIF213242 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Azkario Rizky Pratama, S.T., M.Eng., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/bipi2021a",
-            "PRESENSI: https://forms.gle/Ni1wKhVdDTcExPep8",
+        "Dosen": "Ir. Agus Bejo, S.T., M.Eng., D.Eng., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 8,9,10,11,12,13,14"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "35",
-        "Hari/Jam": "Senin 10:00 WIB Kamis 13:00 WIB",
-        "Matakuliah": "Fisika Fluida, Kalor Dan Gelombang TKU211122 2 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Dzuhri Radityo Utomo, S.T, M.E., Ph.D",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Perancangan Teknologi Informasi 1 TIF213242 2 SKS",
+        "Kelas": "A",
+        "Dosen": "Ir. Lukito Edi Nugroho, M.Sc., Ph.D.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/ugQKjco6nmF56dJq9",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -561,29 +561,29 @@
     },
     {
         "#": "36",
-        "Hari/Jam": "Senin 10:00 WIB Kamis 13:00 WIB",
-        "Matakuliah": "Fisika Fluida, Kalor Dan Gelombang TKU211122 2 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Ir. Eka Firmansyah, S.T., M.Eng., Ph.D., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://classroom.google.com/c/Mzc5Nzg2ODA4MTQ3?cjc=cgvmrz5",
-            "PRESENSI: https://forms.gle/ugQKjco6nmF56dJq9",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Perancangan Teknologi Informasi 1 TIF213242 2 SKS",
+        "Kelas": "A",
+        "Dosen": "Syukron Abu Ishaq Alfarozi, S.T., Ph.D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "URL Meeting Kelas: https://teams.microsoft.com/l/meetup-join/19%3a49c52e00a6034328a42723d0788a78fb%40thread.tacv2/1628839420221?context=%7b%22Tid%22%3a%22af2c0734-cb42-464f-b6bf-2a241b6ada56%22%2c%22Oid%22%3a%22da92496f-a61b-4366-982a-a687a3a76263%22%7d",
-            "Pertemuan ke: 1,2"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "37",
-        "Hari/Jam": "Senin 10:00 WIB Kamis 13:00 WIB",
-        "Matakuliah": "Fisika Fluida, Kalor Dan Gelombang TKU211122 2 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Ahmad Ataka Awwalur Rizqi , S.T., Ph.D",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Perancangan Teknologi Informasi 1 TIF213242 2 SKS",
+        "Kelas": "A",
+        "Dosen": "Bimo Sunarfri Hantono, S.T., M.Eng.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/ugQKjco6nmF56dJq9",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -593,13 +593,13 @@
     },
     {
         "#": "38",
-        "Hari/Jam": "Senin 10:00 WIB Kamis 13:00 WIB",
-        "Matakuliah": "Fisika Mekanika Klasik TKU211121 2 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Dzuhri Radityo Utomo, S.T, M.E., Ph.D",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Perancangan Teknologi Informasi 1 TIF213242 2 SKS",
+        "Kelas": "A",
+        "Dosen": "Husni Rois Ali, S.T., M.Eng., Ph.D.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/Bj5PhrkabQe98Lbs8",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -609,61 +609,61 @@
     },
     {
         "#": "39",
-        "Hari/Jam": "Senin 10:00 WIB Kamis 13:00 WIB",
-        "Matakuliah": "Fisika Mekanika Klasik TKU211121 2 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Ir. Eka Firmansyah, S.T., M.Eng., Ph.D., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://classroom.google.com/c/Mzc5Nzg4MjQyNDky?cjc=liiqyu4",
-            "PRESENSI: https://forms.gle/Bj5PhrkabQe98Lbs8",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Perancangan Teknologi Informasi 1 TIF213242 2 SKS",
+        "Kelas": "A",
+        "Dosen": "Dzuhri Radityo Utomo, S.T, M.E., Ph.D",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "URL Meeting Kelas: https://teams.microsoft.com/l/meetup-join/19%3a49c52e00a6034328a42723d0788a78fb%40thread.tacv2/1628839420221?context=%7b%22Tid%22%3a%22af2c0734-cb42-464f-b6bf-2a241b6ada56%22%2c%22Oid%22%3a%22da92496f-a61b-4366-982a-a687a3a76263%22%7d",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "40",
-        "Hari/Jam": "Senin 10:00 WIB",
-        "Matakuliah": "Jaringan Dan Komunikasi Data TKU213141 3 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Perancangan Teknologi Informasi 1 TIF213242 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Sujoko Sumaryono, M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3aPXhB545uHqVwaOm9H30IBY66EnOixNpMbwl6J9KPK-w1%40thread.tacv2/conversations?groupId=4ebe5168-4ac0-4d34-bb82-3380ec92de4d&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/gQNqFrATDRSJ3sZU8",
+        "Dosen": "Ahmad Ataka Awwalur Rizqi , S.T., Ph.D",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "Kode Tim: 8s9l9pz",
-            "Pertemuan ke: 8,9,10,11,12,13,14"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "41",
-        "Hari/Jam": "Senin 10:00 WIB",
-        "Matakuliah": "Jaringan Dan Komunikasi Data TKU213141 3 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Perancangan Teknologi Informasi 1 TIF213242 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Wahyu Dewanto, M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://ugm-spark.webex.com/meet/wahyud",
-            "PRESENSI: https://forms.gle/gQNqFrATDRSJ3sZU8",
+        "Dosen": "Azkario Rizky Pratama, S.T., M.Eng., Ph.D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "577373663",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "42",
-        "Hari/Jam": "Senin 10:00 WIB",
-        "Matakuliah": "Metode Numeris TKU212101 3 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Senior Teknik Biomedis TKB213205 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Roni Irnawan, S.T., M.Sc., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Dr.Eng. Ir. Adha Imam Cahyadi, S.T., M.Eng., IPM.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/bHb14w9yTGwPVjAD7",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -673,29 +673,29 @@
     },
     {
         "#": "43",
-        "Hari/Jam": "Senin 10:00 WIB",
-        "Matakuliah": "Metode Numeris TKU212101 3 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Senior Teknik Biomedis TKB213205 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Sarjiya, S.T., M.T., Ph.D., IPU.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3aSQHN0sZCPUps4RQ13IPciCbxxLWwNY-eeBgDHJ_a3dI1%40thread.tacv2/conversations?groupId=89e30a76-7e94-4185-ba8d-848ccc2b283e&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/bHb14w9yTGwPVjAD7",
-            "WAG/Telegram: https://t.me/joinchat/L6RQYtMY-ew0YmE1"
+        "Dosen": "Husni Rois Ali, S.T., M.Eng., Ph.D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "44",
-        "Hari/Jam": "Senin 10:00 WIB",
-        "Matakuliah": "Metode Numeris TKU212101 3 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Senior Teknik Biomedis TKB213205 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Noor Akhmad Setiawan, S.T., M.T., Ph.D., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Ir. Prapto Nugroho, S.T., M.Eng., D.Eng., IPM.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/bHb14w9yTGwPVjAD7",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -705,30 +705,30 @@
     },
     {
         "#": "45",
-        "Hari/Jam": "Senin 10:00 WIB",
-        "Matakuliah": "Pengolahan Statistis Isyarat TKE215211 3 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Senior Teknik Biomedis TKB213205 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr. Indah Soesanti, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/SoesantiSSP",
-            "PRESENSI: https://forms.gle/gE4R5Ub9B6WQHWWC9",
+        "Dosen": "Syukron Abu Ishaq Alfarozi, S.T., Ph.D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "6vfjba7",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "46",
-        "Hari/Jam": "Senin 10:00 WIB",
-        "Matakuliah": "Perlengkapan Sistem Tenaga TKE215103 2 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Senior Teknik Biomedis TKB213205 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Tiyono, M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://bit.ly/PSTGanjilTYN",
-            "PRESENSI: https://forms.gle/dgfUWqRkSSxZ7JGX9",
-            "WAG/Telegram: https://chat.whatsapp.com/FKn3wYD5gNJ1QaMrEmhm5u"
+        "Dosen": "Ahmad Ataka Awwalur Rizqi , S.T., Ph.D",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
@@ -737,13 +737,13 @@
     },
     {
         "#": "47",
-        "Hari/Jam": "Senin 10:00 WIB",
-        "Matakuliah": "Perlengkapan Sistem Tenaga TKE215103 2 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Senior Teknik Biomedis TKB213205 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Bambang Sugiyantoro, M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Bimo Sunarfri Hantono, S.T., M.Eng.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/dgfUWqRkSSxZ7JGX9",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -753,61 +753,61 @@
     },
     {
         "#": "48",
-        "Hari/Jam": "Senin 10:00 WIB",
-        "Matakuliah": "Sistem Kendali Lanjut TKE215116 3 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Senior Teknik Biomedis TKB213205 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Oyas Wahyunggoro, M.T., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3a3ak0p9nGMQJ0nv_3Ah6NFzQQyUsWiIfLG9ZU2mM-TDo1%40thread.tacv2/conversations?groupId=10fe8240-7470-46dc-bfcd-445c53d38f36&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/uK7Br22rmgZc3JRX7",
+        "Dosen": "Dr.Eng. Igi Ardiyanto, S.T., M.Eng.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "Pswd: 6lbhk4pTKE215116 - Sistem Kendali Lanjut (PS3) - SGSL2122",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "49",
-        "Hari/Jam": "Senin 10:00 WIB",
-        "Matakuliah": "Teknik Antarmuka Dan Periferal TKE215119 2 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Senior Teknik Biomedis TKB213205 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dani Adhipta, S.Si., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3aBfsPzR4yTMNNSsTGFJvbiayLQQ9gTLs7FfrrDyBl7ZI1%40thread.tacv2/conversations?groupId=f8be25fd-7ba5-4fbc-9237-bb719ee4e3f5&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/TN73Z9VNPXBwjaac8",
+        "Dosen": "Dzuhri Radityo Utomo, S.T, M.E., Ph.D",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "50",
-        "Hari/Jam": "Senin 13:00 WIB",
-        "Matakuliah": "Kecerdasan Buatan TIF212244 3 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Senior Teknik Elektro TKE213205 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Teguh Bharata Adji, S.T., M.T., M.Eng., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://bit.ly/cerbu21",
-            "PRESENSI: https://forms.gle/FE43MWyRGzHVekLf9",
+        "Dosen": "Dr.Eng. Igi Ardiyanto, S.T., M.Eng.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "51",
-        "Hari/Jam": "Senin 13:00 WIB",
-        "Matakuliah": "Kecerdasan Buatan TIF212244 3 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Senior Teknik Elektro TKE213205 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr.Eng. Igi Ardiyanto, S.T., M.Eng.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Husni Rois Ali, S.T., M.Eng., Ph.D.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/FE43MWyRGzHVekLf9",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -817,13 +817,13 @@
     },
     {
         "#": "52",
-        "Hari/Jam": "Senin 13:00 WIB",
-        "Matakuliah": "Kecerdasan Buatan TIF212244 3 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Senior Teknik Elektro TKE213205 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Azkario Rizky Pratama, S.T., M.Eng., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Ir. Prapto Nugroho, S.T., M.Eng., D.Eng., IPM.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/FE43MWyRGzHVekLf9",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -833,13 +833,13 @@
     },
     {
         "#": "53",
-        "Hari/Jam": "Senin 13:00 WIB",
-        "Matakuliah": "Kecerdasan Buatan TIF212244 3 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Senior Teknik Elektro TKE213205 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Syukron Abu Ishaq Alfarozi, S.T., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Dr.Eng. Ir. Adha Imam Cahyadi, S.T., M.Eng., IPM.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/FE43MWyRGzHVekLf9",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -849,13 +849,13 @@
     },
     {
         "#": "54",
-        "Hari/Jam": "Senin 13:00 WIB",
-        "Matakuliah": "Mesin Listrik 2 TKE213202 2 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Senior Teknik Elektro TKE213205 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr. Ir. M. Isnaeni Bambang Setyonegoro, M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Bimo Sunarfri Hantono, S.T., M.Eng.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/bxquJmbNiobnVhuu5",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -865,13 +865,13 @@
     },
     {
         "#": "55",
-        "Hari/Jam": "Senin 13:00 WIB",
-        "Matakuliah": "Mesin Listrik 2 TKE213202 2 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Senior Teknik Elektro TKE213205 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Harry Prabowo, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Dzuhri Radityo Utomo, S.T, M.E., Ph.D",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/bxquJmbNiobnVhuu5",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -881,45 +881,45 @@
     },
     {
         "#": "56",
-        "Hari/Jam": "Senin 13:00 WIB",
-        "Matakuliah": "Mesin Listrik 2 TKE213202 2 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Senior Teknik Elektro TKE213205 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Bambang Sugiyantoro, M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3at6woTzByHIkm6XE7NOqC22h-OicrD8CRF9NtpkPc9js1%40thread.tacv2/conversations?groupId=0410c8af-40a6-40c2-a914-2855b2452cf3&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/bxquJmbNiobnVhuu5",
+        "Dosen": "Ir. Agus Bejo, S.T., M.Eng., D.Eng., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "xsy69bk",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "57",
-        "Hari/Jam": "Senin 13:00 WIB",
-        "Matakuliah": "Persamaan Diferensial TKU211203 3 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Senior Teknik Elektro TKE213205 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Iswandi, S.T., M.Eng.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/channel/19%3aQz_UJcba1FtENhH2dlI2Uj0Gl6quRJlNfqeMgov68wA1%40thread.tacv2/General?groupId=028599cf-c1e1-404e-bafe-e804b4680009&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/EV8Dwt9FB3RPZYC58",
+        "Dosen": "Ahmad Ataka Awwalur Rizqi , S.T., Ph.D",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "https://teams.microsoft.com/l/meetup-join/19%3aQz_UJcba1FtENhH2dlI2Uj0Gl6quRJlNfqeMgov68wA1%40thread.tacv2/1628844471835?context=%7b%22Tid%22%3a%22af2c0734-cb42-464f-b6bf-2a241b6ada56%22%2c%22Oid%22%3a%222a5d1027-976d-43e1-ab29-5c189bd5e555%22%7d",
-            "Pertemuan ke: 1,2,3"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "58",
-        "Hari/Jam": "Senin 13:00 WIB",
-        "Matakuliah": "Persamaan Diferensial TKU211203 3 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Senior Teknologi Informasi TIF213241 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ahmad Ataka Awwalur Rizqi , S.T., Ph.D",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Ir. Prapto Nugroho, S.T., M.Eng., D.Eng., IPM.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/EV8Dwt9FB3RPZYC58",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -929,45 +929,45 @@
     },
     {
         "#": "59",
-        "Hari/Jam": "Senin 13:00 WIB",
-        "Matakuliah": "Persamaan Diferensial TKU211203 3 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Senior Teknologi Informasi TIF213241 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr.Eng. Ir. Adha Imam Cahyadi, S.T., M.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3aQz_UJcba1FtENhH2dlI2Uj0Gl6quRJlNfqeMgov68wA1%40thread.tacv2/conversations?groupId=028599cf-c1e1-404e-bafe-e804b4680009&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/EV8Dwt9FB3RPZYC58",
+        "Dosen": "Dr.Eng. Igi Ardiyanto, S.T., M.Eng.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "5jdllsm",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "60",
-        "Hari/Jam": "Senin 13:00 WIB",
-        "Matakuliah": "Teknik Digital TKU212142 2 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Senior Teknologi Informasi TIF213241 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Addin Suwastono, S.T., M.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/channel/19%3ad4e36ff75e3b4a1b9e4459cff24e2692%40thread.tacv2/General?groupId=0fc7b8d9-cec8-4baa-b6a2-61a8011370a7&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/D4VEefaferVDrbrAA",
-            "WAG/Telegram: https://chat.whatsapp.com/EBosHJvUJDABftnWD0fT65"
+        "Dosen": "Syukron Abu Ishaq Alfarozi, S.T., Ph.D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "61",
-        "Hari/Jam": "Senin 13:00 WIB",
-        "Matakuliah": "Teknik Digital TKU212142 2 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Senior Teknologi Informasi TIF213241 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr. Ir. Risanuri Hidayat, M.Sc., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/meetup-join/19%3ad4e36ff75e3b4a1b9e4459cff24e2692%40thread.tacv2/1629093496290?context=%7b%22Tid%22%3a%22af2c0734-cb42-464f-b6bf-2a241b6ada56%22%2c%22Oid%22%3a%22baaf848a-499f-4aff-a489-ce0cc5517ff1%22%7d",
-            "PRESENSI: https://forms.gle/D4VEefaferVDrbrAA",
+        "Dosen": "Dr. Ir. Ridi Ferdiana, S.T., M.T., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -977,45 +977,45 @@
     },
     {
         "#": "62",
-        "Hari/Jam": "Senin 13:00 WIB",
-        "Matakuliah": "Teknik Pengolahan Isyarat Biomedis TKB212202 3 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Senior Teknologi Informasi TIF213241 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr. Indah Soesanti, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/SoesantiTPIB",
-            "PRESENSI: https://forms.gle/zcM4ASH3SXh21uEe6",
+        "Dosen": "Bimo Sunarfri Hantono, S.T., M.Eng.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "45ey97v",
-            "Pertemuan ke: 8,9,10,11,12,13,14"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "63",
-        "Hari/Jam": "Senin 13:00 WIB",
-        "Matakuliah": "Teknik Pengolahan Isyarat Biomedis TKB212202 3 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Senior Teknologi Informasi TIF213241 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dzuhri Radityo Utomo, S.T, M.E., Ph.D",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://classroom.google.com/c/MzgwMDc4ODk5Nzk3?cjc=sima73o",
-            "PRESENSI: https://forms.gle/zcM4ASH3SXh21uEe6",
+        "Dosen": "Dr. Indriana Hidayah, S.T., M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "Link Meeting : http://ugm.id/tpib21",
-            "Pertemuan ke: 1,2,3,4"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "64",
-        "Hari/Jam": "Senin 13:00 WIB",
-        "Matakuliah": "Teknik Pengolahan Isyarat Biomedis TKB212202 3 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Senior Teknologi Informasi TIF213241 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Syukron Abu Ishaq Alfarozi, S.T., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/tpib21",
-            "PRESENSI: https://forms.gle/zcM4ASH3SXh21uEe6",
+        "Dosen": "Dr.Eng. Silmi Fauziati, S.T., M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1025,45 +1025,45 @@
     },
     {
         "#": "65",
-        "Hari/Jam": "Senin 13:00 WIB Kamis 13:00 WIB",
-        "Matakuliah": "Teori Vektor Dan Matriks TKU211104 2 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Proyek Senior Teknologi Informasi TIF213241 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Husni Rois Ali, S.T., M.Eng., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3aBci2C7RjwsWODLgdrvT6-t_TFlYtn3-DNUvJokGjl9Q1%40thread.tacv2/conversations?groupId=2817a172-9967-4d8b-abf3-4b02974812bd&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/hDy2zAdMwV8o9jyZ8",
-            "WAG/Telegram:"
-        ],
-        "Keterangan": [
-            "ab1s3px",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
-        ]
-    },
-    {
-        "#": "66",
-        "Hari/Jam": "Senin 13:00 WIB Kamis 13:00 WIB",
-        "Matakuliah": "Teori Vektor Dan Matriks TKU211104 2 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Syukron Abu Ishaq Alfarozi, S.T., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/tvm21a",
-            "PRESENSI: https://forms.gle/hDy2zAdMwV8o9jyZ8",
+        "Dosen": "Ir. Agus Bejo, S.T., M.Eng., D.Eng., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "Pertemuan ke:"
+        ]
+    },
+    {
+        "#": "66",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Sistem Telemedis TKB213274 3 SKS",
+        "Kelas": "A",
+        "Dosen": "Adhistya Erna Permanasari, S.T., M.T., Ph.D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
+        ],
+        "Keterangan": [
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "67",
-        "Hari/Jam": "Senin 15:30 WIB",
-        "Matakuliah": "Komputasi Awan TIF213147 2 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Sistem Telemedis TKB213274 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Warsun Najib, S.T., M.Sc.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Enas Dhuhri Kusuma, S.T., M.Eng.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/yrPvSZYMT4NKNoFq8",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1073,14 +1073,14 @@
     },
     {
         "#": "68",
-        "Hari/Jam": "Senin 15:30 WIB",
-        "Matakuliah": "Komputasi Awan TIF213147 2 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Statistika TKU212111 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Agus Bejo, S.T., M.Eng., D.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: Minta tolong dibuatkan room untuk kuliah ini di Teams untuk semua pengampu mulai dari pertemuan pertama sampai dengan terakhir.",
-            "PRESENSI: https://forms.gle/yrPvSZYMT4NKNoFq8",
-            "WAG/Telegram: https://chat.whatsapp.com/GS3ebmntl4zGScR4E9l10t"
+        "Dosen": "Dr. Indah Soesanti, S.T., M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
@@ -1089,13 +1089,13 @@
     },
     {
         "#": "69",
-        "Hari/Jam": "Senin 15:30 WIB",
-        "Matakuliah": "Komputasi Awan TIF213147 2 SKS",
+        "Hari/Jam": "Senin 07:00 WIB",
+        "Matakuliah": "Statistika TKU212111 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr.Eng. Igi Ardiyanto, S.T., M.Eng.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Dr.Eng. Ir. Sunu Wibirama, S.T., M.Eng., IPM.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/yrPvSZYMT4NKNoFq8",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1105,29 +1105,29 @@
     },
     {
         "#": "70",
-        "Hari/Jam": "Senin 15:30 WIB",
-        "Matakuliah": "Komputasi Awan TIF213147 2 SKS",
+        "Hari/Jam": "Senin 10:00 WIB",
+        "Matakuliah": "Keamanan Komputer TIF213243 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr. Ir. Ridi Ferdiana, S.T., M.T., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/teams",
-            "PRESENSI: https://forms.gle/yrPvSZYMT4NKNoFq8",
+        "Dosen": "Ir. Sujoko Sumaryono, M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "mnbi2af",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "71",
-        "Hari/Jam": "Senin 15:30 WIB",
-        "Matakuliah": "Komputasi Awan TIF213147 2 SKS",
+        "Hari/Jam": "Senin 10:00 WIB",
+        "Matakuliah": "Keamanan Komputer TIF213243 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Sigit Basuki Wibowo, S.T., M.Eng., Ph.D., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Dani Adhipta, S.Si., M.T.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/yrPvSZYMT4NKNoFq8",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1137,13 +1137,13 @@
     },
     {
         "#": "72",
-        "Hari/Jam": "Senin 15:30 WIB",
-        "Matakuliah": "Komputasi Awan TIF213147 2 SKS",
+        "Hari/Jam": "Senin 10:00 WIB",
+        "Matakuliah": "Perancangan Sistem Listrik Industri TKE215209 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr. Sri Suning Kusumawardani, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Ir. Bambang Sugiyantoro, M.T.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/yrPvSZYMT4NKNoFq8",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1153,29 +1153,29 @@
     },
     {
         "#": "73",
-        "Hari/Jam": "Selasa 07:15 WIB",
-        "Matakuliah": "Manajemen Industri UNU215101 2 SKS",
+        "Hari/Jam": "Senin 10:00 WIB",
+        "Matakuliah": "Perancangan Sistem Listrik Industri TKE215209 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Subagyo, Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://zoom.us/j/3868769999?pwd=L0tRRHBTTmVoR2FXZE1xNy9vamljdz09",
-            "PRESENSI: https://forms.gle/DeNi235D7cZsDsSTA",
+        "Dosen": "Ir. Tiyono, M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "74",
-        "Hari/Jam": "Selasa 07:15 WIB",
-        "Matakuliah": "Manajemen Industri UNU215101 2 SKS",
+        "Hari/Jam": "Senin 10:00 WIB",
+        "Matakuliah": "Probabilitas Dan Variabel Acak TKU211211 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Fitri Trapsilawati, S.T., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Dr. Dyonisius Dony Ariananda, S.T., M.Sc.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/DeNi235D7cZsDsSTA",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1185,29 +1185,29 @@
     },
     {
         "#": "75",
-        "Hari/Jam": "Selasa 15:30 WIB",
-        "Matakuliah": "Teknik Proteksi TKE215105 3 SKS",
+        "Hari/Jam": "Senin 10:00 WIB",
+        "Matakuliah": "Probabilitas Dan Variabel Acak TKU211211 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Fikri Waskito, S.T., M.Eng.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/tekproteksi",
-            "PRESENSI: https://forms.gle/JtYh9kBFh32zHMR87",
+        "Dosen": "Naufal Hilmi Fauzan,",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "76",
-        "Hari/Jam": "Selasa 15:30 WIB",
-        "Matakuliah": "Teknik Proteksi TKE215105 3 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Ir. Bambang Sugiyantoro, M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Hari/Jam": "Senin 10:00 WIB",
+        "Matakuliah": "Sistem Berdasar Mikroprosesor TKE215109 2 SKS",
+        "Kelas": "B",
+        "Dosen": "Ir. Addin Suwastono, S.T., M.Eng., IPM.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/JtYh9kBFh32zHMR87",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1217,13 +1217,13 @@
     },
     {
         "#": "77",
-        "Hari/Jam": "Selasa 15:30 WIB",
-        "Matakuliah": "Teknik Proteksi TKE215105 3 SKS",
+        "Hari/Jam": "Senin 10:00 WIB",
+        "Matakuliah": "Teknik Pencitraan Biomedis TKB213202 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Tumiran, M. Eng., Ph. D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Ir. Noor Akhmad Setiawan, S.T., M.T., Ph.D., IPM.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/JtYh9kBFh32zHMR87",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1233,61 +1233,61 @@
     },
     {
         "#": "78",
-        "Hari/Jam": "Selasa 15:30 WIB Rabu 13:00 WIB",
-        "Matakuliah": "Teori Vektor Dan Matriks TKU211104 2 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Husni Rois Ali, S.T., M.Eng., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3a6eaIYGB1GFlOhhUkC9RSCQ3-y7Cp7cLFj4taonqGYeE1%40thread.tacv2/conversations?groupId=7e861c12-edce-4aca-bb3f-c6a947679eb7&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/rD1eiekDXJNyKu6t5",
-            "WAG/Telegram:"
-        ],
-        "Keterangan": [
-            "jwnao6l",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
-        ]
-    },
-    {
-        "#": "79",
-        "Hari/Jam": "Selasa 15:30 WIB Rabu 13:00 WIB",
-        "Matakuliah": "Teori Vektor Dan Matriks TKU211104 2 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Syukron Abu Ishaq Alfarozi, S.T., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/tvm21b",
-            "PRESENSI: https://forms.gle/rD1eiekDXJNyKu6t5",
+        "Hari/Jam": "Senin 13:00 WIB",
+        "Matakuliah": "Aljabar Linear TKU211202 3 SKS",
+        "Kelas": "A",
+        "Dosen": "Husni Rois Ali, S.T., M.Eng., Ph.D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "Pertemuan ke:"
+        ]
+    },
+    {
+        "#": "79",
+        "Hari/Jam": "Senin 13:00 WIB",
+        "Matakuliah": "Aljabar Linear TKU211202 3 SKS",
+        "Kelas": "A",
+        "Dosen": "Yohan Fajar Sidik,",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
+        ],
+        "Keterangan": [
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "80",
-        "Hari/Jam": "Rabu 07:15 WIB",
-        "Matakuliah": "Forensik Digital TIF215121 3 SKS",
+        "Hari/Jam": "Senin 13:00 WIB",
+        "Matakuliah": "Pemrograman Dasar TKU211131 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Sujoko Sumaryono, M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3a47V6LcXQS9A4n0FdLjsPiTgtFVrr8iJ2LdbZcC9q2g01%40thread.tacv2/conversations?groupId=a84e39d9-e331-4b25-baa4-91ceeebf92c2&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/PeZst8ESo43bi8f66",
+        "Dosen": "Dr. Indriana Hidayah, S.T., M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "Kode Tim: 9rof0dx",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "81",
-        "Hari/Jam": "Rabu 07:15 WIB",
-        "Matakuliah": "Forensik Digital TIF215121 3 SKS",
+        "Hari/Jam": "Senin 13:00 WIB",
+        "Matakuliah": "Pemrograman Dasar TKU211131 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dani Adhipta, S.Si., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Bimo Sunarfri Hantono, S.T., M.Eng.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/PeZst8ESo43bi8f66",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1297,29 +1297,29 @@
     },
     {
         "#": "82",
-        "Hari/Jam": "Rabu 07:15 WIB",
-        "Matakuliah": "Isyarat Dan Sistem TKU212141 3 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Dr. Dyonisius Dony Ariananda, S.T., M.Sc.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/meetup-join/19%3aBswshkrzUkM3nKmXnNlKpyP9S_2bojN64lTUfOm6VhU1%40thread.tacv2/1628936354253?context=%7b%22Tid%22%3a%22af2c0734-cb42-464f-b6bf-2a241b6ada56%22%2c%22Oid%22%3a%22ab680de2-59f8-43a0-a97d-2c3bc63e3ffa%22%7d",
-            "PRESENSI: https://forms.gle/Pafq54rQjrTJMHVW9",
+        "Hari/Jam": "Senin 13:00 WIB",
+        "Matakuliah": "Sistem Berbasis Mikroprosesor TIF212243 2 SKS",
+        "Kelas": "A",
+        "Dosen": "Ir. Addin Suwastono, S.T., M.Eng., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "Kode Kelas: 8b087dh",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "83",
-        "Hari/Jam": "Rabu 07:15 WIB Kamis 10:00 WIB",
-        "Matakuliah": "Kalkulus Variabel Jamak TKU211103 3 SKS",
+        "Hari/Jam": "Senin 13:00 WIB",
+        "Matakuliah": "Sistem Berbasis Mikroprosesor TIF212243 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dewi Kartika Sari, S.Si., M.Sc., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Enas Dhuhri Kusuma, S.T., M.Eng.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/77dWMoj2A27dnJY56",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1329,13 +1329,13 @@
     },
     {
         "#": "84",
-        "Hari/Jam": "Rabu 07:15 WIB Kamis 10:00 WIB",
-        "Matakuliah": "Kalkulus Variabel Jamak TKU211103 3 SKS",
+        "Hari/Jam": "Senin 13:00 WIB",
+        "Matakuliah": "Sistem Komunikasi TKE213201 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Made Benny Prasetya Wiranata, S.Si. M.Sc.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Ir. Sigit Basuki Wibowo, S.T., M.Eng., Ph.D., IPM.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/77dWMoj2A27dnJY56",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1345,29 +1345,29 @@
     },
     {
         "#": "85",
-        "Hari/Jam": "Rabu 07:15 WIB Kamis 10:00 WIB",
-        "Matakuliah": "Kalkulus Variabel Tunggal TKU211101 3 SKS",
+        "Hari/Jam": "Senin 13:00 WIB",
+        "Matakuliah": "Sistem Komunikasi TKE213201 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Fikri Waskito, S.T., M.Eng.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/KVTkelasA",
-            "PRESENSI: https://forms.gle/cSo5wFbSVdw4Fywi9",
+        "Dosen": "Iswandi, S.T., M.Eng.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "86",
-        "Hari/Jam": "Rabu 07:15 WIB Kamis 10:00 WIB",
-        "Matakuliah": "Kalkulus Variabel Tunggal TKU211101 3 SKS",
+        "Hari/Jam": "Senin 13:00 WIB",
+        "Matakuliah": "Sistem Pendukung Keputusan TIF215133 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr.Eng. Ir. F. Danang Wijaya, S.T., M.T., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Dr.Eng. Silmi Fauziati, S.T., M.T.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/cSo5wFbSVdw4Fywi9",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1377,29 +1377,29 @@
     },
     {
         "#": "87",
-        "Hari/Jam": "Rabu 07:15 WIB",
-        "Matakuliah": "Keandalan Sistem Tenaga Listrik TKE215205 3 SKS",
+        "Hari/Jam": "Senin 13:00 WIB",
+        "Matakuliah": "Sistem Pendukung Keputusan TIF215133 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Lesnanto Multa Putranto, S.T., M.Eng., Ph.D., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/meetup-join/19%3a3_xOuAXnf4tRAyMKbthj9f8SHw5wmUPdB0BLKP1vWik1%40thread.tacv2/1628907291548?context=%7b%22Tid%22%3a%22af2c0734-cb42-464f-b6bf-2a241b6ada56%22%2c%22Oid%22%3a%22e931e30a-b336-462c-9ad5-498945abf7d1%22%7d",
-            "PRESENSI: https://forms.gle/CyPz7BcZ2dec3E287",
+        "Dosen": "Adhistya Erna Permanasari, S.T., M.T., Ph.D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "vsybp1v",
-            "Pertemuan ke: 8,9,10,11,12,13,14"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "88",
-        "Hari/Jam": "Rabu 07:15 WIB",
-        "Matakuliah": "Keandalan Sistem Tenaga Listrik TKE215205 3 SKS",
+        "Hari/Jam": "Senin 13:00 WIB",
+        "Matakuliah": "Teknik Kendali TKU212243 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Harry Prabowo, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Dzuhri Radityo Utomo, S.T, M.E., Ph.D",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/CyPz7BcZ2dec3E287",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1409,13 +1409,13 @@
     },
     {
         "#": "89",
-        "Hari/Jam": "Rabu 07:15 WIB",
-        "Matakuliah": "Keandalan Sistem Tenaga Listrik TKE215205 3 SKS",
+        "Hari/Jam": "Senin 13:00 WIB",
+        "Matakuliah": "Teknik Kendali TKU212243 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Tumiran, M. Eng., Ph. D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Ahmad Ataka Awwalur Rizqi , S.T., Ph.D",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/CyPz7BcZ2dec3E287",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1425,13 +1425,13 @@
     },
     {
         "#": "90",
-        "Hari/Jam": "Rabu 07:15 WIB Kamis 10:00 WIB",
-        "Matakuliah": "Matematika Diskrit TKU211102 3 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "I Wayan Mustika, S.T., M.Eng., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Hari/Jam": "Senin 13:00 WIB",
+        "Matakuliah": "Teknik Kendali TKU212243 3 SKS",
+        "Kelas": "A",
+        "Dosen": "Dr.Eng. Ir. Adha Imam Cahyadi, S.T., M.Eng., IPM.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/B3QEzoMCk55xYzfa9",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1441,13 +1441,13 @@
     },
     {
         "#": "91",
-        "Hari/Jam": "Rabu 07:15 WIB Kamis 10:00 WIB",
-        "Matakuliah": "Matematika Diskrit TKU211102 3 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Dr.Eng. Igi Ardiyanto, S.T., M.Eng.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Hari/Jam": "Senin 13:00 WIB",
+        "Matakuliah": "Transmisi Arus Searah TKE215210 3 SKS",
+        "Kelas": "A",
+        "Dosen": "Ir. Tiyono, M.T.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/B3QEzoMCk55xYzfa9",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1457,13 +1457,13 @@
     },
     {
         "#": "92",
-        "Hari/Jam": "Rabu 07:15 WIB Kamis 10:00 WIB",
-        "Matakuliah": "Matematika Diskrit TKU211102 3 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Dr. Sri Suning Kusumawardani, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Hari/Jam": "Senin 13:00 WIB",
+        "Matakuliah": "Transmisi Arus Searah TKE215210 3 SKS",
+        "Kelas": "A",
+        "Dosen": "Roni Irnawan, S.T., M.Sc., Ph.D.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/B3QEzoMCk55xYzfa9",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1473,45 +1473,45 @@
     },
     {
         "#": "93",
-        "Hari/Jam": "Rabu 07:15 WIB Kamis 10:00 WIB",
-        "Matakuliah": "Matematika Diskrit TKU211102 3 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Dr.Eng. Ir. Adha Imam Cahyadi, S.T., M.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3af3BPmfIbASS_QBzM1ZNZx97g6W1tH9Pkwa0yq1yVOEY1%40thread.tacv2/conversations?groupId=20fb99fd-f567-4295-8995-c038f3fca692&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/B3QEzoMCk55xYzfa9",
-            "WAG/Telegram:"
-        ],
-        "Keterangan": [
-            "g3pat5m",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
-        ]
-    },
-    {
-        "#": "94",
-        "Hari/Jam": "Rabu 07:15 WIB Kamis 10:00 WIB",
-        "Matakuliah": "Matematika Diskrit TKU211102 3 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Azkario Rizky Pratama, S.T., M.Eng., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/madis2021b",
-            "PRESENSI: https://forms.gle/B3QEzoMCk55xYzfa9",
+        "Hari/Jam": "Selasa 07:00 WIB",
+        "Matakuliah": "Teknik Biomaterial TKB213201 2 SKS",
+        "Kelas": "A",
+        "Dosen": "Dr. Eng. Herianto, ST., M.Eng.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 6,7,8"
+            "Pertemuan ke:"
+        ]
+    },
+    {
+        "#": "94",
+        "Hari/Jam": "Selasa 13:00 WIB",
+        "Matakuliah": "Analisis Variabel Kompleks TKU211201 3 SKS",
+        "Kelas": "B",
+        "Dosen": "Dosen Dummy,",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
+        ],
+        "Keterangan": [
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "95",
-        "Hari/Jam": "Rabu 07:15 WIB",
-        "Matakuliah": "Mesin Listrik 1 TKE213103 2 SKS",
+        "Hari/Jam": "Selasa 13:00 WIB",
+        "Matakuliah": "Analisis Variabel Kompleks TKU211201 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Tiyono, M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://bit.ly/MesinListrik1TYN",
-            "PRESENSI: https://forms.gle/dB9MYdyC43p8GWRj6",
+        "Dosen": "Dosen Dummy,",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1521,93 +1521,93 @@
     },
     {
         "#": "96",
-        "Hari/Jam": "Rabu 07:15 WIB",
-        "Matakuliah": "Mesin Listrik 1 TKE213103 2 SKS",
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Arsitektur Perangkat Lunak TIF215113 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr. Ir. M. Isnaeni Bambang Setyonegoro, M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://bit.ly/MesinListrik1",
-            "PRESENSI: https://forms.gle/dB9MYdyC43p8GWRj6",
+        "Dosen": "Dr. Indriana Hidayah, S.T., M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "97",
-        "Hari/Jam": "Rabu 07:15 WIB",
-        "Matakuliah": "Pengembangan Aplikasi Piranti Bergerak TIF215112 3 SKS",
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Arsitektur Perangkat Lunak TIF215113 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Azkario Rizky Pratama, S.T., M.Eng., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/PAPB21Ganjil",
-            "PRESENSI: https://forms.gle/1jMhtoej4V6sJnXY9",
+        "Dosen": "Warsun Najib, S.T., M.Sc.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 8,9,10,11,12,13,14"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "98",
-        "Hari/Jam": "Rabu 07:15 WIB",
-        "Matakuliah": "Pengembangan Aplikasi Piranti Bergerak TIF215112 3 SKS",
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Isyarat Dan Sistem TKU212141 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Bimo Sunarfri Hantono, S.T., M.Eng.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/PAPB21Ganjil",
-            "PRESENSI: https://forms.gle/1jMhtoej4V6sJnXY9",
+        "Dosen": "Dr. Dyonisius Dony Ariananda, S.T., M.Sc.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "99",
-        "Hari/Jam": "Rabu 07:15 WIB",
-        "Matakuliah": "Pengukuran Dan Instrumentasi Biomedis TKB212203 2 SKS",
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Konsep Keteknikan Untuk Peradaban FIU211201 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Prapto Nugroho, S.T., M.Eng., D.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/PenguinBiomed2021A",
-            "PRESENSI: https://forms.gle/Z9FvvEFzubr6RRAk9",
+        "Dosen": "Ir. Eka Firmansyah, S.T., M.Eng., Ph.D., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 8,9,10,11,12,13,14"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "100",
-        "Hari/Jam": "Rabu 07:15 WIB",
-        "Matakuliah": "Pengukuran Dan Instrumentasi Biomedis TKB212203 2 SKS",
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Konsep Keteknikan Untuk Peradaban FIU211201 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr. Indah Soesanti, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/SoesantiPIB",
-            "PRESENSI: https://forms.gle/Z9FvvEFzubr6RRAk9",
+        "Dosen": "Dr. Ir. M. Isnaeni Bambang Setyonegoro, M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "pd30973",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "101",
-        "Hari/Jam": "Rabu 07:15 WIB",
-        "Matakuliah": "Perancangan Sistem Digital TKE215108 3 SKS",
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Konsep Keteknikan Untuk Peradaban FIU211201 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr. Ir. Risanuri Hidayat, M.Sc., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/meetup-join/19%3aDRh1zIT2n7RucYnocwcFIN3QnFiPbvD5ozQHfJkvyDw1%40thread.tacv2/1629165110088?context=%7b%22Tid%22%3a%22af2c0734-cb42-464f-b6bf-2a241b6ada56%22%2c%22Oid%22%3a%22a3f6b49e-31d5-4a20-9a9f-ca3654fb6e49%22%7d",
-            "PRESENSI: https://forms.gle/cpeqMhy15S2iogvC9",
+        "Dosen": "Yohan Fajar Sidik,",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1617,45 +1617,45 @@
     },
     {
         "#": "102",
-        "Hari/Jam": "Rabu 07:15 WIB",
-        "Matakuliah": "Perancangan Sistem Digital TKE215108 3 SKS",
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Konsep Keteknikan Untuk Peradaban FIU211201 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Agus Bejo, S.T., M.Eng., D.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://ugm-spark.webex.com/ugm-spark/j.php?MTID=m18714963cba2f46f028be1353fba988e",
-            "PRESENSI: https://forms.gle/cpeqMhy15S2iogvC9",
-            "WAG/Telegram: https://chat.whatsapp.com/L2bWDtbOBx3CyCajKCVZDu"
-        ],
-        "Keterangan": [
-            "Meeting number: 170 000 8795Password: 55U2yMn2PjcHost key: 991396",
-            "Pertemuan ke: 8,9,10,11,12,13,14"
-        ]
-    },
-    {
-        "#": "103",
-        "Hari/Jam": "Rabu 07:15 WIB",
-        "Matakuliah": "Rekayasa Perangkat Lunak TIF213144 3 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Dr. Indriana Hidayah, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/message/19:d893b0c08085417da8836c286b77754d@thread.tacv2/1628841647593?tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56&groupId=1db1eb4a-8e62-4058-81fe-8b97c63a8bc5&parentMessageId=1628841647593&teamName=Rekayasa%20Perangkat%20Lunak%20(Sarjana)&channelName=RPL%20Gasal%202021-2022&createdTime=1628841647593",
-            "PRESENSI: https://forms.gle/96ppikTnnVx45ghi8",
+        "Dosen": "Ir. Sujoko Sumaryono, M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 3,4,5,6,7"
+            "Pertemuan ke:"
+        ]
+    },
+    {
+        "#": "103",
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Konsep Keteknikan Untuk Peradaban FIU211201 2 SKS",
+        "Kelas": "A",
+        "Dosen": "Ir. Tiyono, M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
+        ],
+        "Keterangan": [
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "104",
-        "Hari/Jam": "Rabu 07:15 WIB",
-        "Matakuliah": "Rekayasa Perangkat Lunak TIF213144 3 SKS",
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Konsep Keteknikan Untuk Peradaban FIU211201 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Prof. Ir. Selo, S.T., M.T., M. Sc., Ph.D., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Prof. Dr. Ir. Sasongko Pramono H, DEA.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/96ppikTnnVx45ghi8",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1665,61 +1665,61 @@
     },
     {
         "#": "105",
-        "Hari/Jam": "Rabu 07:15 WIB",
-        "Matakuliah": "Rekayasa Perangkat Lunak TIF213144 3 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Adhistya Erna Permanasari, S.T., M.T., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3a9vTgfMFZnwxz9uEmn-Z4icj4UGZwJICOP9fqZd3kTAk1%40thread.tacv2/conversations?groupId=19ba4ffc-0694-4e14-839c-1f5857e22b2e&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/96ppikTnnVx45ghi8",
-            "WAG/Telegram:"
-        ],
-        "Keterangan": [
-            "enrollment key eLOKk: RPLGASAL21",
-            "Pertemuan ke: 8,9,10,11,12,13,14"
-        ]
-    },
-    {
-        "#": "106",
-        "Hari/Jam": "Rabu 07:15 WIB",
-        "Matakuliah": "Sistem Komunikasi Nirkabel TKE215213 3 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Ir. Wahyu Dewanto, M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://ugm-spark.webex.com/meet/wahyud",
-            "PRESENSI: https://forms.gle/6rC6ocJsSJMT9wZH7",
-            "WAG/Telegram:"
-        ],
-        "Keterangan": [
-            "577373663",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
-        ]
-    },
-    {
-        "#": "107",
-        "Hari/Jam": "Rabu 07:15 WIB",
-        "Matakuliah": "TIK Dan Masyarakat TIF215215 3 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Ir. Lukito Edi Nugroho, M.Sc., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3a7iwwM50pd2WWXfxF6iu5eaX5zwgfXeK7hkFwPgOpmQQ1%40thread.tacv2/conversations?groupId=443e4757-cb8a-403e-bd57-5042f15cb3c1&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/i5fxA6ZjnySQkwdv5",
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Konsep Keteknikan Untuk Peradaban FIU211201 2 SKS",
+        "Kelas": "B",
+        "Dosen": "Yohan Fajar Sidik,",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "Pertemuan ke:"
+        ]
+    },
+    {
+        "#": "106",
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Konsep Keteknikan Untuk Peradaban FIU211201 2 SKS",
+        "Kelas": "B",
+        "Dosen": "Prof. Dr. Ir. Sasongko Pramono H, DEA.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
+        ],
+        "Keterangan": [
+            "",
+            "Pertemuan ke:"
+        ]
+    },
+    {
+        "#": "107",
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Konsep Keteknikan Untuk Peradaban FIU211201 2 SKS",
+        "Kelas": "B",
+        "Dosen": "Ir. Sujoko Sumaryono, M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
+        ],
+        "Keterangan": [
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "108",
-        "Hari/Jam": "Rabu 07:15 WIB",
-        "Matakuliah": "TIK Dan Masyarakat TIF215215 3 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Muhammad Nur Rizal, S.T., M. Eng., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Konsep Keteknikan Untuk Peradaban FIU211201 2 SKS",
+        "Kelas": "B",
+        "Dosen": "Ir. Tiyono, M.T.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/i5fxA6ZjnySQkwdv5",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1729,29 +1729,29 @@
     },
     {
         "#": "109",
-        "Hari/Jam": "Rabu 10:00 WIB",
-        "Matakuliah": "Algoritme Dan Struktur Data TKU211231 3 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Dr.Eng. Silmi Fauziati, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3asWJVifKJy8brroK97azf9BNyPZtp9VdSORfQ2_rOjHg1%40thread.tacv2/conversations?groupId=ad8e449b-cd3f-4821-8453-af97bf48d483&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/8dHMcMFASLgnBMPv7",
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Konsep Keteknikan Untuk Peradaban FIU211201 2 SKS",
+        "Kelas": "B",
+        "Dosen": "Ir. Eka Firmansyah, S.T., M.Eng., Ph.D., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "fm7rddk",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "110",
-        "Hari/Jam": "Rabu 10:00 WIB",
-        "Matakuliah": "Algoritme Dan Struktur Data TKU211231 3 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Dr. Indriana Hidayah, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Konsep Keteknikan Untuk Peradaban FIU211201 2 SKS",
+        "Kelas": "B",
+        "Dosen": "Dr. Ir. M. Isnaeni Bambang Setyonegoro, M.T.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/8dHMcMFASLgnBMPv7",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1761,13 +1761,13 @@
     },
     {
         "#": "111",
-        "Hari/Jam": "Rabu 10:00 WIB",
-        "Matakuliah": "Kalkulus Variabel Jamak TKU211103 3 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Dewi Kartika Sari, S.Si., M.Sc., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Konsep Keteknikan Untuk Peradaban FIU211201 2 SKS",
+        "Kelas": "C",
+        "Dosen": "Dr. Ir. M. Isnaeni Bambang Setyonegoro, M.T.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/vE7iq3AhTuNyLAkc8",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1777,13 +1777,13 @@
     },
     {
         "#": "112",
-        "Hari/Jam": "Rabu 10:00 WIB",
-        "Matakuliah": "Kalkulus Variabel Jamak TKU211103 3 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Made Benny Prasetya Wiranata, S.Si. M.Sc.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Konsep Keteknikan Untuk Peradaban FIU211201 2 SKS",
+        "Kelas": "C",
+        "Dosen": "Yohan Fajar Sidik,",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/vE7iq3AhTuNyLAkc8",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1793,29 +1793,29 @@
     },
     {
         "#": "113",
-        "Hari/Jam": "Rabu 10:00 WIB Kamis 07:15 WIB",
-        "Matakuliah": "Kalkulus Variabel Tunggal TKU211101 3 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Fikri Waskito, S.T., M.Eng.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/KVTkelasB",
-            "PRESENSI: https://forms.gle/c4vDNBcjXrGBTiYY9",
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Konsep Keteknikan Untuk Peradaban FIU211201 2 SKS",
+        "Kelas": "C",
+        "Dosen": "Ir. Eka Firmansyah, S.T., M.Eng., Ph.D., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "114",
-        "Hari/Jam": "Rabu 10:00 WIB Kamis 07:15 WIB",
-        "Matakuliah": "Kalkulus Variabel Tunggal TKU211101 3 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Dr.Eng. Ir. F. Danang Wijaya, S.T., M.T., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Konsep Keteknikan Untuk Peradaban FIU211201 2 SKS",
+        "Kelas": "C",
+        "Dosen": "Ir. Sujoko Sumaryono, M.T.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/c4vDNBcjXrGBTiYY9",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1825,13 +1825,13 @@
     },
     {
         "#": "115",
-        "Hari/Jam": "Rabu 10:00 WIB Kamis 07:15 WIB",
-        "Matakuliah": "Matematika Diskrit TKU211102 3 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "I Wayan Mustika, S.T., M.Eng., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Konsep Keteknikan Untuk Peradaban FIU211201 2 SKS",
+        "Kelas": "C",
+        "Dosen": "Ir. Tiyono, M.T.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/9pJLyQodFvA33tXF6",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1841,13 +1841,13 @@
     },
     {
         "#": "116",
-        "Hari/Jam": "Rabu 10:00 WIB Kamis 07:15 WIB",
-        "Matakuliah": "Matematika Diskrit TKU211102 3 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Dr.Eng. Igi Ardiyanto, S.T., M.Eng.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Konsep Keteknikan Untuk Peradaban FIU211201 2 SKS",
+        "Kelas": "C",
+        "Dosen": "Prof. Dr. Ir. Sasongko Pramono H, DEA.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/9pJLyQodFvA33tXF6",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1857,13 +1857,13 @@
     },
     {
         "#": "117",
-        "Hari/Jam": "Rabu 10:00 WIB Kamis 07:15 WIB",
+        "Hari/Jam": "Rabu 07:00 WIB",
         "Matakuliah": "Matematika Diskrit TKU211102 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr. Sri Suning Kusumawardani, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Azkario Rizky Pratama, S.T., M.Eng., Ph.D.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/9pJLyQodFvA33tXF6",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1873,61 +1873,61 @@
     },
     {
         "#": "118",
-        "Hari/Jam": "Rabu 10:00 WIB Kamis 07:15 WIB",
+        "Hari/Jam": "Rabu 07:00 WIB",
         "Matakuliah": "Matematika Diskrit TKU211102 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr.Eng. Ir. Adha Imam Cahyadi, S.T., M.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3a0ASGfQ2zg0fDJ1yaEhxP-crZDnpsg1l9W7oyLasnbVM1%40thread.tacv2/conversations?groupId=e785da33-b0da-45b8-b844-29875fe1afc7&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/9pJLyQodFvA33tXF6",
-            "WAG/Telegram:"
-        ],
-        "Keterangan": [
-            "xojyhpf",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
-        ]
-    },
-    {
-        "#": "119",
-        "Hari/Jam": "Rabu 10:00 WIB Kamis 07:15 WIB",
-        "Matakuliah": "Matematika Diskrit TKU211102 3 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Azkario Rizky Pratama, S.T., M.Eng., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/madis2021a",
-            "PRESENSI: https://forms.gle/9pJLyQodFvA33tXF6",
+        "Dosen": "Dr.Eng. Ir. Adha Imam Cahyadi, S.T., M.Eng., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 6,7,8"
+            "Pertemuan ke:"
+        ]
+    },
+    {
+        "#": "119",
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Matematika Diskrit TKU211102 3 SKS",
+        "Kelas": "A",
+        "Dosen": "Syukron Abu Ishaq Alfarozi, S.T., Ph.D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
+        ],
+        "Keterangan": [
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "120",
-        "Hari/Jam": "Rabu 10:00 WIB",
-        "Matakuliah": "Medan Elektromagnetik TKU212241 3 SKS",
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Matematika Diskrit TKU211102 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Iswandi, S.T., M.Eng.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/channel/19%3aGAKCPQoK2F4IGBDuqU-FDD-33RC-nNdEsk9Ypzz1E5k1%40thread.tacv2/General?groupId=2409e378-191e-4907-a581-a9420ded73ce&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/snLbtM8ewaVrNiXB9",
+        "Dosen": "Dr. Sri Suning Kusumawardani, S.T., M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "https://teams.microsoft.com/l/meetup-join/19%3aGAKCPQoK2F4IGBDuqU-FDD-33RC-nNdEsk9Ypzz1E5k1%40thread.tacv2/1628833993816?context=%7b%22Tid%22%3a%22af2c0734-cb42-464f-b6bf-2a241b6ada56%22%2c%22Oid%22%3a%222a5d1027-976d-43e1-ab29-5c189bd5e555%22%7d",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "121",
-        "Hari/Jam": "Rabu 10:00 WIB",
-        "Matakuliah": "Pembangkitan Tenaga Listrik TKE215101 2 SKS",
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Sistem Komunikasi Bergerak TIF215124 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Tiyono, M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://bit.ly/PTLGanjilTYN",
-            "PRESENSI: https://forms.gle/FGQSkynH3JYToiQb9",
+        "Dosen": "Ir. Wahyu Dewanto, M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1937,13 +1937,13 @@
     },
     {
         "#": "122",
-        "Hari/Jam": "Rabu 10:00 WIB",
-        "Matakuliah": "Pembangkitan Tenaga Listrik TKE215101 2 SKS",
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Sistem Operasi Pada Sistem Tertanam TKE215222 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Harry Prabowo, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Ir. Agus Bejo, S.T., M.Eng., D.Eng., IPM.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/FGQSkynH3JYToiQb9",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -1953,93 +1953,93 @@
     },
     {
         "#": "123",
-        "Hari/Jam": "Rabu 10:00 WIB",
-        "Matakuliah": "Pembangkitan Tenaga Listrik TKE215101 2 SKS",
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Teknik Pengolahan Citra Biomedis TKB213203 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Bambang Sugiyantoro, M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3ao8UeBLoXtEAUJ9iI8N7uIRRvh04EmCxa8AJCXmjaD0g1%40thread.tacv2/conversations?groupId=7cf62de3-7797-45d5-beb5-33f96d24b739&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/FGQSkynH3JYToiQb9",
+        "Dosen": "Ir. Hanung Adi Nugroho, S.T., M.E., Ph.D., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "9wbgngh",
-            "Pertemuan ke: 1,2,3,4,5"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "124",
-        "Hari/Jam": "Rabu 10:00 WIB",
-        "Matakuliah": "Pengalaman Pengguna TIF215213 3 SKS",
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Teknik Pengolahan Citra Biomedis TKB213203 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr.Eng. Ir. Sunu Wibirama, S.T., M.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3afecf31204ac945e1a4daa702fd742478%40thread.tacv2/conversations?groupId=03e4699e-553f-48f5-b808-7c727a6c1607&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/JQQYvwMCJgtZ15ji7",
+        "Dosen": "Dr. Indah Soesanti, S.T., M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "125",
-        "Hari/Jam": "Rabu 10:00 WIB",
-        "Matakuliah": "Pengembangan Aplikasi Web TIF213146 3 SKS",
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Teknik Tegangan Tinggi TKE215104 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Bimo Sunarfri Hantono, S.T., M.Eng.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/PAW21Ganjil",
-            "PRESENSI: https://forms.gle/XjLPP9wDZFd9tcnY8",
+        "Dosen": "Harry Prabowo, S.T., M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "126",
-        "Hari/Jam": "Rabu 10:00 WIB",
-        "Matakuliah": "Teknik Pengolahan Isyarat Digital TKE212201 3 SKS",
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Teknik Tegangan Tinggi TKE215104 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Enas Dhuhri Kusuma, S.T., M.Eng.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3aKoNSrwULAiMHi5vZ-4TvUPtrYwbMtl05wzDptko7TBM1%40thread.tacv2/conversations?groupId=25d8a5b2-e572-425e-9258-081e978469ab&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/BbmUi72NFZUQ4zZ28",
-            "WAG/Telegram: https://chat.whatsapp.com/K9cO1uXoZrk4qzPZz7SXY3"
+        "Dosen": "Dr.Eng. Ir. F. Danang Wijaya, S.T., M.T., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "127",
-        "Hari/Jam": "Rabu 10:00 WIB",
-        "Matakuliah": "Teknik Pengolahan Isyarat Digital TKE212201 3 SKS",
+        "Hari/Jam": "Rabu 07:00 WIB",
+        "Matakuliah": "Teknik Tegangan Tinggi TKE215104 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Sujoko Sumaryono, M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3aKoNSrwULAiMHi5vZ-4TvUPtrYwbMtl05wzDptko7TBM1%40thread.tacv2/conversations?groupId=25d8a5b2-e572-425e-9258-081e978469ab&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/BbmUi72NFZUQ4zZ28",
+        "Dosen": "Naufal Hilmi Fauzan,",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "Kode Tim: 6v9qgse",
-            "Pertemuan ke: 8,9,10,11,12,13,14"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "128",
-        "Hari/Jam": "Rabu 13:00 WIB",
-        "Matakuliah": "Desain Listrik Industri TKE215106 2 SKS",
+        "Hari/Jam": "Rabu 10:00 WIB",
+        "Matakuliah": "Analisis Sistem Tenaga TKE213203 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Tumiran, M. Eng., Ph. D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Ir. Lesnanto Multa Putranto, S.T., M.Eng., Ph.D., IPM.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/d1wGpxbSBCsGZhrY8",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -2049,13 +2049,13 @@
     },
     {
         "#": "129",
-        "Hari/Jam": "Rabu 13:00 WIB",
-        "Matakuliah": "Desain Listrik Industri TKE215106 2 SKS",
+        "Hari/Jam": "Rabu 10:00 WIB",
+        "Matakuliah": "Analisis Sistem Tenaga TKE213203 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Tiyono, M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://bit.ly/DLIGanjilTYN",
-            "PRESENSI: https://forms.gle/d1wGpxbSBCsGZhrY8",
+        "Dosen": "Roni Irnawan, S.T., M.Sc., Ph.D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -2065,13 +2065,13 @@
     },
     {
         "#": "130",
-        "Hari/Jam": "Rabu 13:00 WIB",
-        "Matakuliah": "Perancangan Sistem Kendali Modern TKE213102 3 SKS",
+        "Hari/Jam": "Rabu 10:00 WIB",
+        "Matakuliah": "Fisika Mekanika Klasik TKU211121 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ahmad Ataka Awwalur Rizqi , S.T., Ph.D",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Ir. Oyas Wahyunggoro, M.T., Ph.D.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/cbNZ1t6JxzPP6syc7",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -2081,45 +2081,45 @@
     },
     {
         "#": "131",
-        "Hari/Jam": "Rabu 13:00 WIB",
-        "Matakuliah": "Perancangan Sistem Kendali Modern TKE213102 3 SKS",
+        "Hari/Jam": "Rabu 10:00 WIB",
+        "Matakuliah": "Fisika Mekanika Klasik TKU211121 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr.Eng. Ir. Adha Imam Cahyadi, S.T., M.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3aPBEBHlvECw9UQLUtT0dIVCPa-y_nxQYsB1H6u0BUQRY1%40thread.tacv2/conversations?groupId=1c7f1bc3-a96c-41e3-abe8-dd4a15928f2f&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/cbNZ1t6JxzPP6syc7",
+        "Dosen": "Dr.Eng. Ir. F. Danang Wijaya, S.T., M.T., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "24ksqf6",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "132",
-        "Hari/Jam": "Rabu 13:00 WIB",
-        "Matakuliah": "Sensor Dan Transduser TKB213105 2 SKS",
+        "Hari/Jam": "Rabu 10:00 WIB",
+        "Matakuliah": "Medan Elektromagnetik TKU212241 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr. Indah Soesanti, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/SoesantiSDT",
-            "PRESENSI: https://forms.gle/myjsrnr64tPAY2JeA",
+        "Dosen": "Iswandi, S.T., M.Eng.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "dpq0dtt",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "133",
-        "Hari/Jam": "Rabu 13:00 WIB",
-        "Matakuliah": "Sensor Dan Transduser TKB213105 2 SKS",
+        "Hari/Jam": "Rabu 10:00 WIB",
+        "Matakuliah": "Medan Elektromagnetik TKU212241 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Noor Akhmad Setiawan, S.T., M.T., Ph.D., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Ir. Sigit Basuki Wibowo, S.T., M.Eng., Ph.D., IPM.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/myjsrnr64tPAY2JeA",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -2129,13 +2129,13 @@
     },
     {
         "#": "134",
-        "Hari/Jam": "Rabu 13:00 WIB",
-        "Matakuliah": "Sistem Tertanam Dan Internet Of Things (IoT) TKE215121 3 SKS",
+        "Hari/Jam": "Rabu 10:00 WIB",
+        "Matakuliah": "Pengukuran Dan Instrumentasi Biomedis TKB212203 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "I Wayan Mustika, S.T., M.Eng., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Enas Dhuhri Kusuma, S.T., M.Eng.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/ifLAe2pQKMWovTFa9",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -2145,45 +2145,45 @@
     },
     {
         "#": "135",
-        "Hari/Jam": "Rabu 13:00 WIB",
-        "Matakuliah": "Sistem Tertanam Dan Internet Of Things (IoT) TKE215121 3 SKS",
+        "Hari/Jam": "Rabu 10:00 WIB",
+        "Matakuliah": "Pengukuran Dan Instrumentasi Biomedis TKB212203 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Enas Dhuhri Kusuma, S.T., M.Eng.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/meetup-join/19%3a2a9881ffaba24329abd4419bd1be0e24%40thread.tacv2/1628921674487?context=%7b%22Tid%22%3a%22af2c0734-cb42-464f-b6bf-2a241b6ada56%22%2c%22Oid%22%3a%22bedaa4b7-a1d7-41dc-ab63-e47cd32a86b2%22%7d",
-            "PRESENSI: https://forms.gle/ifLAe2pQKMWovTFa9",
-            "WAG/Telegram: https://chat.whatsapp.com/In1YgnXaGTQHeV5cZwMUpJ"
+        "Dosen": "Ir. Prapto Nugroho, S.T., M.Eng., D.Eng., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
         ],
         "Keterangan": [
-            "Kode Teams : dslqwnw",
+            "",
             "Pertemuan ke:"
         ]
     },
     {
         "#": "136",
-        "Hari/Jam": "Rabu 13:00 WIB",
-        "Matakuliah": "Telekomunikasi Dasar TKU212102 3 SKS",
+        "Hari/Jam": "Rabu 10:00 WIB",
+        "Matakuliah": "Persamaan Diferensial TKU211203 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Sigit Basuki Wibowo, S.T., M.Eng., Ph.D., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/telkomdasA",
-            "PRESENSI: https://forms.gle/Bv8fgyD6Hn8RvMcaA",
+        "Dosen": "Dr.Eng. Ir. Adha Imam Cahyadi, S.T., M.Eng., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "137",
-        "Hari/Jam": "Rabu 13:00 WIB",
-        "Matakuliah": "Topik Khusus Teknologi Informasi TIF215211 3 SKS",
+        "Hari/Jam": "Rabu 10:00 WIB",
+        "Matakuliah": "Persamaan Diferensial TKU211203 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Lukito Edi Nugroho, M.Sc., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Ahmad Ataka Awwalur Rizqi , S.T., Ph.D",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/JMA4t3EUhpqemtdUA",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -2193,13 +2193,13 @@
     },
     {
         "#": "138",
-        "Hari/Jam": "Rabu 13:00 WIB",
-        "Matakuliah": "Topik Khusus Teknologi Informasi TIF215211 3 SKS",
+        "Hari/Jam": "Rabu 10:00 WIB",
+        "Matakuliah": "Sistem Diagnosis Berbasis Pendukung Keputusan TKB213273 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr. Sri Suning Kusumawardani, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Adhistya Erna Permanasari, S.T., M.T., Ph.D.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/JMA4t3EUhpqemtdUA",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -2209,125 +2209,125 @@
     },
     {
         "#": "139",
-        "Hari/Jam": "Rabu 13:00 WIB",
-        "Matakuliah": "Topik Khusus Teknologi Informasi TIF215211 3 SKS",
+        "Hari/Jam": "Rabu 10:00 WIB",
+        "Matakuliah": "Sistem Diagnosis Berbasis Pendukung Keputusan TKB213273 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr.Eng. Silmi Fauziati, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3aNZE2vVOG4RUszQ3STElWff7jR024gXyz2c1lnITElA41%40thread.tacv2/conversations?groupId=287068bc-7360-44e5-86b4-d557bf4f44c4&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/JMA4t3EUhpqemtdUA",
-            "WAG/Telegram:"
-        ],
-        "Keterangan": [
-            "7fuuckt",
-            "Pertemuan ke: 6,7"
-        ]
-    },
-    {
-        "#": "140",
-        "Hari/Jam": "Rabu 13:00 WIB",
-        "Matakuliah": "Topik Khusus Teknologi Informasi TIF215211 3 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Adhistya Erna Permanasari, S.T., M.T., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3aNZE2vVOG4RUszQ3STElWff7jR024gXyz2c1lnITElA41%40thread.tacv2/conversations?groupId=287068bc-7360-44e5-86b4-d557bf4f44c4&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/JMA4t3EUhpqemtdUA",
-            "WAG/Telegram:"
-        ],
-        "Keterangan": [
-            "enrollment key eLOK: S1TKTI2021",
-            "Pertemuan ke: 1,2,3,4,5"
-        ]
-    },
-    {
-        "#": "141",
-        "Hari/Jam": "Rabu 15:30 WIB",
-        "Matakuliah": "Komunikasi Data Dan Komputer TIF212142 3 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Ir. Wahyu Dewanto, M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://ugm-spark.webex.com/meet/wahyud",
-            "PRESENSI: https://forms.gle/Kyxq14vQXsyAiYCS9",
-            "WAG/Telegram:"
-        ],
-        "Keterangan": [
-            "577373663",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
-        ]
-    },
-    {
-        "#": "142",
-        "Hari/Jam": "Rabu 15:30 WIB",
-        "Matakuliah": "Komunikasi Data Dan Komputer TIF212142 3 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Ir. Sujoko Sumaryono, M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3aNwZR-b2lHXbUgJqe913w-mzSdUGHUf2WLw02G6zTkc81%40thread.tacv2/conversations?groupId=c7c76a1f-abcf-4a0b-8677-2e19cee808ce&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/Kyxq14vQXsyAiYCS9",
-            "WAG/Telegram:"
-        ],
-        "Keterangan": [
-            "Kode Tim: wy3ra8p",
-            "Pertemuan ke: 8,9,10,11,12,13,14"
-        ]
-    },
-    {
-        "#": "143",
-        "Hari/Jam": "Rabu 15:30 WIB",
-        "Matakuliah": "Telekomunikasi Dasar TKU212102 3 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Ir. Sigit Basuki Wibowo, S.T., M.Eng., Ph.D., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/telkomdasB",
-            "PRESENSI: https://forms.gle/Q5wQ8YR62HDWPkmE7",
+        "Dosen": "Dr.Eng. Silmi Fauziati, S.T., M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "Pertemuan ke:"
+        ]
+    },
+    {
+        "#": "140",
+        "Hari/Jam": "Rabu 10:00 WIB",
+        "Matakuliah": "Topik Khusus Teknologi Informasi TIF215211 3 SKS",
+        "Kelas": "A",
+        "Dosen": "Prof. Ir. Selo, S.T., M.T., M. Sc., Ph.D., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
+        ],
+        "Keterangan": [
+            "",
+            "Pertemuan ke:"
+        ]
+    },
+    {
+        "#": "141",
+        "Hari/Jam": "Rabu 10:00 WIB",
+        "Matakuliah": "Topik Khusus Teknologi Informasi TIF215211 3 SKS",
+        "Kelas": "A",
+        "Dosen": "Dr. Ir. Ridi Ferdiana, S.T., M.T., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
+        ],
+        "Keterangan": [
+            "",
+            "Pertemuan ke:"
+        ]
+    },
+    {
+        "#": "142",
+        "Hari/Jam": "Rabu 10:00 WIB",
+        "Matakuliah": "Topik Khusus Teknologi Informasi TIF215211 3 SKS",
+        "Kelas": "A",
+        "Dosen": "Dr. Sri Suning Kusumawardani, S.T., M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
+        ],
+        "Keterangan": [
+            "",
+            "Pertemuan ke:"
+        ]
+    },
+    {
+        "#": "143",
+        "Hari/Jam": "Rabu 10:00 WIB",
+        "Matakuliah": "Topik Khusus Teknologi Informasi TIF215211 3 SKS",
+        "Kelas": "A",
+        "Dosen": "Syukron Abu Ishaq Alfarozi, S.T., Ph.D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
+        ],
+        "Keterangan": [
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "144",
-        "Hari/Jam": "Rabu 15:30 WIB",
-        "Matakuliah": "Telekomunikasi Dasar TKU212102 3 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Ir. Wahyu Dewanto, M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://ugm-spark.webex.com/meet/wahyud",
-            "PRESENSI: https://forms.gle/Q5wQ8YR62HDWPkmE7",
+        "Hari/Jam": "Rabu 10:00 WIB",
+        "Matakuliah": "Topik Khusus Teknologi Informasi TIF215211 3 SKS",
+        "Kelas": "A",
+        "Dosen": "Ir. Lukito Edi Nugroho, M.Sc., Ph.D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "577373663",
-            "Pertemuan ke: 8,9,10,11,12,13,14"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "145",
-        "Hari/Jam": "Kamis 07:15 WIB",
-        "Matakuliah": "Dinamika Dan Stabilitas Sistem Tenaga Listrik TKE215203 3 SKS",
+        "Hari/Jam": "Rabu 13:00 WIB Jum'at 13:00 WIB",
+        "Matakuliah": "Algoritme Dan Struktur Data TKU211231 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Lesnanto Multa Putranto, S.T., M.Eng., Ph.D., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/meetup-join/19%3aiNr9fVTPcPhRiZdjUxfEXze8hx6HBrx0Bzaf2nCuMdo1%40thread.tacv2/1628906959702?context=%7b%22Tid%22%3a%22af2c0734-cb42-464f-b6bf-2a241b6ada56%22%2c%22Oid%22%3a%22e931e30a-b336-462c-9ad5-498945abf7d1%22%7d",
-            "PRESENSI: https://forms.gle/Ah6rzC96T6aZ7mkw9",
+        "Dosen": "Warsun Najib, S.T., M.Sc.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "tvxm8wk",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "146",
-        "Hari/Jam": "Kamis 07:15 WIB",
-        "Matakuliah": "Dinamika Dan Stabilitas Sistem Tenaga Listrik TKE215203 3 SKS",
+        "Hari/Jam": "Rabu 13:00 WIB Jum'at 13:00 WIB",
+        "Matakuliah": "Algoritme Dan Struktur Data TKU211231 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Prof. Dr. Ir. Sasongko Pramono H, DEA.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Dr. Indriana Hidayah, S.T., M.T.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/Ah6rzC96T6aZ7mkw9",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -2337,125 +2337,125 @@
     },
     {
         "#": "147",
-        "Hari/Jam": "Kamis 07:15 WIB",
-        "Matakuliah": "Pengembangan Aplikasi Permainan TIF215111 3 SKS",
+        "Hari/Jam": "Rabu 13:00 WIB",
+        "Matakuliah": "Analisis Untai Elektrik AC TKE212202 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr. Ir. Ridi Ferdiana, S.T., M.T., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/teams",
-            "PRESENSI: https://forms.gle/qJnU87SAatBYVJbZ8",
+        "Dosen": "Ir. Eka Firmansyah, S.T., M.Eng., Ph.D., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "p1oq3qt",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "148",
-        "Hari/Jam": "Kamis 07:15 WIB",
-        "Matakuliah": "Sistem Mikroprosesor TKU212244 3 SKS",
+        "Hari/Jam": "Rabu 13:00 WIB",
+        "Matakuliah": "Analisis Untai Elektrik AC TKE212202 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Agus Bejo, S.T., M.Eng., D.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://ugm-spark.webex.com/ugm-spark/j.php?MTID=m42d2fa2d721f432aa0b69e06f6ab07a5",
-            "PRESENSI: https://forms.gle/UjHQcwJsv7FK5Exp9",
-            "WAG/Telegram: https://chat.whatsapp.com/E0sgoEAYANO6s3ZMxezjJI"
+        "Dosen": "Ir. Bambang Sugiyantoro, M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
         ],
         "Keterangan": [
-            "Meeting Number: 170 705 9800Password: BEkzuSn3x67",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "149",
-        "Hari/Jam": "Kamis 07:15 WIB",
-        "Matakuliah": "Sistem Mikroprosesor TKU212244 3 SKS",
+        "Hari/Jam": "Rabu 13:00 WIB",
+        "Matakuliah": "Keamanan Dan Integritas Data TIF215123 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Addin Suwastono, S.T., M.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/channel/19%3a42cc8f094a7d4d6092bcb4a50c6212a2%40thread.tacv2/General?groupId=34ea9a42-3adb-438f-b413-87002955e750&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/UjHQcwJsv7FK5Exp9",
+        "Dosen": "Widyawan, S.T., M.Sc., Ph.D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 8,9,10,11,12,13,14"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "150",
-        "Hari/Jam": "Kamis 07:15 WIB",
-        "Matakuliah": "Teknik Optimisasi TKU213101 3 SKS",
+        "Hari/Jam": "Rabu 13:00 WIB",
+        "Matakuliah": "Keamanan Dan Integritas Data TIF215123 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Sarjiya, S.T., M.T., Ph.D., IPU.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Dani Adhipta, S.Si., M.T.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/kb6TmdNzhBKpnjbZ9",
-            "WAG/Telegram: https://t.me/joinchat/c8BIpfoYFqthYzJl"
+            "PRESENSI:",
+            "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 8,9,10,11,12,13,14"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "151",
-        "Hari/Jam": "Kamis 07:15 WIB",
-        "Matakuliah": "Teknik Optimisasi TKU213101 3 SKS",
+        "Hari/Jam": "Rabu 13:00 WIB",
+        "Matakuliah": "Metode Numeris TKU212101 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Roni Irnawan, S.T., M.Sc., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/meetup-join/19%3at-pCeOGd-OmLQVz3v-_D6AS_edlcd4lvu9O1Fhpgdiw1%40thread.tacv2/1629020182192?context=%7b%22Tid%22%3a%22af2c0734-cb42-464f-b6bf-2a241b6ada56%22%2c%22Oid%22%3a%22a558de57-f903-423e-835f-8f5b84dec32b%22%7d",
-            "PRESENSI: https://forms.gle/kb6TmdNzhBKpnjbZ9",
+        "Dosen": "Roni Irnawan, S.T., M.Sc., Ph.D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "152",
-        "Hari/Jam": "Kamis 07:15 WIB",
-        "Matakuliah": "Teknik Pemodelan Dan Simulasi TIF212247 2 SKS",
+        "Hari/Jam": "Rabu 13:00 WIB",
+        "Matakuliah": "Metode Numeris TKU212101 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Teguh Bharata Adji, S.T., M.T., M.Eng., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://bit.ly/pemodelan21",
-            "PRESENSI: https://forms.gle/dP1eam8TJsRinsUy7",
+        "Dosen": "Yohan Fajar Sidik,",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 8,9,10,11,12,13,14"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "153",
-        "Hari/Jam": "Kamis 07:15 WIB",
-        "Matakuliah": "Teknik Pemodelan Dan Simulasi TIF212247 2 SKS",
+        "Hari/Jam": "Rabu 13:00 WIB",
+        "Matakuliah": "Metode Numeris TKU212101 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr. Indriana Hidayah, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Ir. Noor Akhmad Setiawan, S.T., M.T., Ph.D., IPM.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/dP1eam8TJsRinsUy7",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 8,9,10,11,12,13,14"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "154",
-        "Hari/Jam": "Kamis 10:00 WIB",
-        "Matakuliah": "Analisis Untai Elektrik DC TKU212143 3 SKS",
+        "Hari/Jam": "Rabu 13:00 WIB",
+        "Matakuliah": "Penyambungan Dan Pensinyalan TKE215110 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Sigit Basuki Wibowo, S.T., M.Eng., Ph.D., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Ir. Wahyu Dewanto, M.T.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/o1rbKG7KVFmf26jp7",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -2465,78 +2465,78 @@
     },
     {
         "#": "155",
-        "Hari/Jam": "Kamis 10:00 WIB",
-        "Matakuliah": "Analisis Untai Elektrik DC TKU212143 3 SKS",
+        "Hari/Jam": "Rabu 13:00 WIB",
+        "Matakuliah": "Teknik Kompresi Data TIF215134 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Eka Firmansyah, S.T., M.Eng., Ph.D., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://classroom.google.com/c/Mzc5Nzg4MjQ0NDk5?cjc=njibl4e",
-            "PRESENSI: https://forms.gle/o1rbKG7KVFmf26jp7",
+        "Dosen": "Ir. Sujoko Sumaryono, M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "URL Kuliah: https://teams.microsoft.com/l/message/19:49c52e00a6034328a42723d0788a78fb@thread.tacv2/1628840216009?tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56&groupId=6e9565da-a76e-4127-9c56-99eba9ddf956&parentMessageId=1628840216009&teamName=Fisika%202021%2F2022&channelName=General&createdTime=1628840216009",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "156",
-        "Hari/Jam": "Kamis 10:00 WIB",
-        "Matakuliah": "Big Data Dan Analitik TIF215132 3 SKS",
+        "Hari/Jam": "Rabu 13:00 WIB",
+        "Matakuliah": "Teknik Pemodelan Dan Simulasi TIF212247 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr.Eng. Silmi Fauziati, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3aYOSuyIdsjcjea6Dh4Ry1vGIjB9LEmidoekx6vjK7UzM1%40thread.tacv2/conversations?groupId=e9dcab81-1d97-4b25-8151-e0828e8ed9c6&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/a9aabX7PbJvyjFJr5",
+        "Dosen": "Dr. Indriana Hidayah, S.T., M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "1vpzg1i",
-            "Pertemuan ke: 8,9,10,11,12,13,14"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "157",
-        "Hari/Jam": "Kamis 10:00 WIB",
-        "Matakuliah": "Big Data Dan Analitik TIF215132 3 SKS",
+        "Hari/Jam": "Rabu 13:00 WIB",
+        "Matakuliah": "Teknik Pemodelan Dan Simulasi TIF212247 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Noor Akhmad Setiawan, S.T., M.T., Ph.D., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3aYOSuyIdsjcjea6Dh4Ry1vGIjB9LEmidoekx6vjK7UzM1%40thread.tacv2/conversations?groupId=e9dcab81-1d97-4b25-8151-e0828e8ed9c6&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/a9aabX7PbJvyjFJr5",
+        "Dosen": "Teguh Bharata Adji, S.T., M.T., M.Eng., Ph.D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "158",
-        "Hari/Jam": "Kamis 10:00 WIB",
-        "Matakuliah": "Interaksi Manusia Dan Komputer TIF213148 3 SKS",
+        "Hari/Jam": "Kamis 07:00 WIB",
+        "Matakuliah": "Distribusi Tenaga Listrik TKE215107 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. P. Insap Santosa, M.Sc., Ph.D., IPU.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: ugm.id/IMK2021",
-            "PRESENSI: https://forms.gle/QPMXVV1q9DUpZUxY7",
+        "Dosen": "Dr. Ir. M. Isnaeni Bambang Setyonegoro, M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "159",
-        "Hari/Jam": "Kamis 10:00 WIB",
-        "Matakuliah": "Jaringan Komputer TIF212246 3 SKS",
+        "Hari/Jam": "Kamis 07:00 WIB",
+        "Matakuliah": "Distribusi Tenaga Listrik TKE215107 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Muhammad Nur Rizal, S.T., M. Eng., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Naufal Hilmi Fauzan,",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/VwNmvsHm3uUdjpt66",
-            "WAG/Telegram: https://chat.whatsapp.com/J6dh7wgEdmeKfmLBDIYmpX"
+            "PRESENSI:",
+            "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
@@ -2545,78 +2545,78 @@
     },
     {
         "#": "160",
-        "Hari/Jam": "Kamis 10:00 WIB",
-        "Matakuliah": "Jaringan Komputer TIF212246 3 SKS",
+        "Hari/Jam": "Kamis 07:00 WIB",
+        "Matakuliah": "Distribusi Tenaga Listrik TKE215107 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Azkario Rizky Pratama, S.T., M.Eng., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/jarkom2021",
-            "PRESENSI: https://forms.gle/VwNmvsHm3uUdjpt66",
+        "Dosen": "Ir. Bambang Sugiyantoro, M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 8,9,10,11,12,13,14"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "161",
-        "Hari/Jam": "Kamis 10:00 WIB",
-        "Matakuliah": "Kewirausahaan Teknologi UNU214102 2 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Ir. Lukito Edi Nugroho, M.Sc., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3a7jYklJaAhB-aOWYOVubqpVV8C4gGO7_YxqLZjbIEbHU1%40thread.tacv2/conversations?groupId=095795a7-65a7-419b-bbb4-48e19b8be624&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/R1KeVeon3YFoCWvC9",
+        "Hari/Jam": "Kamis 07:00 WIB",
+        "Matakuliah": "Fisika Listrik Dan Magnet TKU211221 3 SKS",
+        "Kelas": "B",
+        "Dosen": "Ir. Eka Firmansyah, S.T., M.Eng., Ph.D., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "162",
-        "Hari/Jam": "Kamis 10:00 WIB",
-        "Matakuliah": "Kewirausahaan Teknologi UNU214102 2 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Dr. Ir. Ridi Ferdiana, S.T., M.T., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/teams",
-            "PRESENSI: https://forms.gle/R1KeVeon3YFoCWvC9",
-            "WAG/Telegram:"
-        ],
-        "Keterangan": [
-            "xb7pi22",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
-        ]
-    },
-    {
-        "#": "163",
-        "Hari/Jam": "Kamis 10:00 WIB",
-        "Matakuliah": "Sistem Berdasar Mikroprosesor TKE215109 2 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Ir. Addin Suwastono, S.T., M.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/channel/19%3a88065667f7594099b28e107fc4967267%40thread.tacv2/General?groupId=4356de10-5a86-4947-a1cc-bc2538b15aaf&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/hoWuy1qgjSuPQEDT6",
+        "Hari/Jam": "Kamis 07:00 WIB",
+        "Matakuliah": "Fisika Listrik Dan Magnet TKU211221 3 SKS",
+        "Kelas": "B",
+        "Dosen": "Dzuhri Radityo Utomo, S.T, M.E., Ph.D",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 8,9,10,11,12,13,14"
+            "Pertemuan ke:"
+        ]
+    },
+    {
+        "#": "163",
+        "Hari/Jam": "Kamis 07:00 WIB",
+        "Matakuliah": "Kalkulus Variabel Tunggal TKU211101 3 SKS",
+        "Kelas": "A",
+        "Dosen": "Dr.Eng. Ir. F. Danang Wijaya, S.T., M.T., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
+        ],
+        "Keterangan": [
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "164",
-        "Hari/Jam": "Kamis 10:00 WIB",
-        "Matakuliah": "Sistem Berdasar Mikroprosesor TKE215109 2 SKS",
+        "Hari/Jam": "Kamis 07:00 WIB",
+        "Matakuliah": "Kalkulus Variabel Tunggal TKU211101 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Enas Dhuhri Kusuma, S.T., M.Eng.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Fikri Waskito, S.T., M.Eng.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/hoWuy1qgjSuPQEDT6",
-            "WAG/Telegram: https://chat.whatsapp.com/C1BCZBYTukeEUY6UMUV3nF"
+            "PRESENSI:",
+            "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
@@ -2625,45 +2625,45 @@
     },
     {
         "#": "165",
-        "Hari/Jam": "Kamis 10:00 WIB",
-        "Matakuliah": "Teknik Neurofuzi TKE215221 3 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Dr. Indah Soesanti, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/SoesantiTNF",
-            "PRESENSI: https://forms.gle/uYqKfArfyiJVhr1n6",
+        "Hari/Jam": "Kamis 07:00 WIB",
+        "Matakuliah": "Matematika Diskrit TKU211102 3 SKS",
+        "Kelas": "B",
+        "Dosen": "Syukron Abu Ishaq Alfarozi, S.T., Ph.D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "s1ogt9d",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "166",
-        "Hari/Jam": "Kamis 10:00 WIB",
-        "Matakuliah": "Teknik Neurofuzi TKE215221 3 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Ir. Oyas Wahyunggoro, M.T., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3a5KVUZGaPrliW4CYjKH4GOGT-DxN2D1Qyrk666hMYJG01%40thread.tacv2/conversations?groupId=de124a0c-45e6-4eb6-a74c-c44fdf2c0e91&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/uYqKfArfyiJVhr1n6",
+        "Hari/Jam": "Kamis 07:00 WIB",
+        "Matakuliah": "Matematika Diskrit TKU211102 3 SKS",
+        "Kelas": "B",
+        "Dosen": "Azkario Rizky Pratama, S.T., M.Eng., Ph.D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "TEKNIK NEUROFUZI",
-            "Pertemuan ke: 8,9,10,11,12,13,14"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "167",
-        "Hari/Jam": "Kamis 13:00 WIB",
-        "Matakuliah": "Analisis Sistem Tenaga TKE213203 2 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Roni Irnawan, S.T., M.Sc., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Hari/Jam": "Kamis 07:00 WIB",
+        "Matakuliah": "Matematika Diskrit TKU211102 3 SKS",
+        "Kelas": "B",
+        "Dosen": "Dr.Eng. Ir. Adha Imam Cahyadi, S.T., M.Eng., IPM.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/fsRdYxWyU2fCUVMG6",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -2673,61 +2673,61 @@
     },
     {
         "#": "168",
-        "Hari/Jam": "Kamis 13:00 WIB",
-        "Matakuliah": "Analisis Sistem Tenaga TKE213203 2 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Ir. Lesnanto Multa Putranto, S.T., M.Eng., Ph.D., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/meetup-join/19%3aLmPIWeSKiXcxB1YCElHu_llG0iBfk2ArBKZa9iBZ9h01%40thread.tacv2/1628906671275?context=%7b%22Tid%22%3a%22af2c0734-cb42-464f-b6bf-2a241b6ada56%22%2c%22Oid%22%3a%22e931e30a-b336-462c-9ad5-498945abf7d1%22%7d",
-            "PRESENSI: https://forms.gle/fsRdYxWyU2fCUVMG6",
+        "Hari/Jam": "Kamis 07:00 WIB",
+        "Matakuliah": "Matematika Diskrit TKU211102 3 SKS",
+        "Kelas": "B",
+        "Dosen": "Dr. Sri Suning Kusumawardani, S.T., M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "71yu7q4",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "169",
-        "Hari/Jam": "Kamis 13:00 WIB",
-        "Matakuliah": "Elektronika Dasar TKU212242 3 SKS",
+        "Hari/Jam": "Kamis 07:00 WIB",
+        "Matakuliah": "Pengolahan Citra Dan Visi Komputer TIF215214 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Prapto Nugroho, S.T., M.Eng., D.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/ELDAS2021A",
-            "PRESENSI: https://forms.gle/kAppfatPGxgGj8TL7",
+        "Dosen": "Dr.Eng. Igi Ardiyanto, S.T., M.Eng.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "tidak ada password",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "170",
-        "Hari/Jam": "Kamis 13:00 WIB",
-        "Matakuliah": "Isyarat Dan Sistem TKU212141 3 SKS",
+        "Hari/Jam": "Kamis 07:00 WIB",
+        "Matakuliah": "Pengolahan Citra Dan Visi Komputer TIF215214 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr. Dyonisius Dony Ariananda, S.T., M.Sc.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/meetup-join/19%3a0lNIpEW6cm7JLVhOWXWN39DBf_0MlGSZgeJG-8_sLg41%40thread.tacv2/1628924957647?context=%7b%22Tid%22%3a%22af2c0734-cb42-464f-b6bf-2a241b6ada56%22%2c%22Oid%22%3a%229fec335c-f272-47cc-9d2a-5a02492898c3%22%7d",
-            "PRESENSI: https://forms.gle/N96SS7A5TRU3uZg19",
+        "Dosen": "Ir. Hanung Adi Nugroho, S.T., M.E., Ph.D., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "Kode Kelas: 30cv82i",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "171",
-        "Hari/Jam": "Kamis 13:00 WIB",
-        "Matakuliah": "Kecerdasan Buatan TKE215223 3 SKS",
+        "Hari/Jam": "Kamis 07:00 WIB",
+        "Matakuliah": "Teknik Biomagnetika TKB212201 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Azkario Rizky Pratama, S.T., M.Eng., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Ahmad Ataka Awwalur Rizqi , S.T., Ph.D",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/2uezD9Kxj1ZpnYh36",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -2737,13 +2737,13 @@
     },
     {
         "#": "172",
-        "Hari/Jam": "Kamis 13:00 WIB",
-        "Matakuliah": "Kecerdasan Buatan TKE215223 3 SKS",
+        "Hari/Jam": "Kamis 07:00 WIB",
+        "Matakuliah": "Teknik Biomagnetika TKB212201 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr.Eng. Igi Ardiyanto, S.T., M.Eng.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Iswandi, S.T., M.Eng.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/2uezD9Kxj1ZpnYh36",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -2753,13 +2753,13 @@
     },
     {
         "#": "173",
-        "Hari/Jam": "Kamis 13:00 WIB",
-        "Matakuliah": "Kecerdasan Buatan TKE215223 3 SKS",
+        "Hari/Jam": "Kamis 07:00 WIB",
+        "Matakuliah": "Teknik Pengolahan Isyarat Digital TKE212201 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Syukron Abu Ishaq Alfarozi, S.T., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Enas Dhuhri Kusuma, S.T., M.Eng.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/2uezD9Kxj1ZpnYh36",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -2769,29 +2769,29 @@
     },
     {
         "#": "174",
-        "Hari/Jam": "Kamis 13:00 WIB",
-        "Matakuliah": "Kecerdasan Buatan TKE215223 3 SKS",
+        "Hari/Jam": "Kamis 07:00 WIB",
+        "Matakuliah": "Teknik Pengolahan Isyarat Digital TKE212201 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Teguh Bharata Adji, S.T., M.T., M.Eng., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://bit.ly/cerbu21",
-            "PRESENSI: https://forms.gle/2uezD9Kxj1ZpnYh36",
+        "Dosen": "Dr. Ir. Risanuri Hidayat, M.Sc., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "175",
-        "Hari/Jam": "Kamis 13:00 WIB",
-        "Matakuliah": "Manajemen Energi TKE215207 3 SKS",
+        "Hari/Jam": "Kamis 07:00 WIB",
+        "Matakuliah": "Teknik Visualisasi Grafis TIF212245 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Tumiran, M. Eng., Ph. D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3abbWmFsrdwQWbqjLVn0TFOBqXg57yfnY01vPxpmi_Kwo1%40thread.tacv2/conversations?groupId=e9dba9d5-9412-4580-8046-c74c9408b22d&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/UTu1J8KXymtafSiT6",
+        "Dosen": "Ir. P. Insap Santosa, M.Sc., Ph.D., IPU.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -2801,45 +2801,45 @@
     },
     {
         "#": "176",
-        "Hari/Jam": "Kamis 13:00 WIB",
-        "Matakuliah": "Manajemen Energi TKE215207 3 SKS",
+        "Hari/Jam": "Kamis 07:00 WIB",
+        "Matakuliah": "Transmisi Telekomunikasi TKE215113 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Sarjiya, S.T., M.T., Ph.D., IPU.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Ir. Wahyu Dewanto, M.T.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/UTu1J8KXymtafSiT6",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 13,14"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "177",
-        "Hari/Jam": "Kamis 13:00 WIB",
-        "Matakuliah": "Peretasan Beretika TIF215122 3 SKS",
+        "Hari/Jam": "Kamis 10:00 WIB",
+        "Matakuliah": "Integrasi Aplikasi Dan Informasi TIF213244 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Widyawan, S.T., M.Sc., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://ugm-id.zoom.us/j/95597691359?pwd=eWJLVWxrQ1RMWC9hVTkvTWVyb1NsUT09",
-            "PRESENSI: https://forms.gle/ZwCKNhucnmozmQpV8",
+        "Dosen": "Dr. Ir. Rudy Hartanto, M.T., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "165638",
-            "Pertemuan ke: 1,2,3,4"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "178",
-        "Hari/Jam": "Kamis 13:00 WIB",
-        "Matakuliah": "Peretasan Beretika TIF215122 3 SKS",
+        "Hari/Jam": "Kamis 10:00 WIB",
+        "Matakuliah": "Integrasi Aplikasi Dan Informasi TIF213244 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dani Adhipta, S.Si., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Ir. Lukito Edi Nugroho, M.Sc., Ph.D.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/ZwCKNhucnmozmQpV8",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -2849,13 +2849,13 @@
     },
     {
         "#": "179",
-        "Hari/Jam": "Kamis 13:00 WIB",
-        "Matakuliah": "Peretasan Beretika TIF215122 3 SKS",
+        "Hari/Jam": "Kamis 10:00 WIB",
+        "Matakuliah": "Kecerdasan Buatan Biomedis TKB213276 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Warsun Najib, S.T., M.Sc.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Dr.Eng. Igi Ardiyanto, S.T., M.Eng.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/ZwCKNhucnmozmQpV8",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -2865,30 +2865,30 @@
     },
     {
         "#": "180",
-        "Hari/Jam": "Kamis 13:00 WIB",
-        "Matakuliah": "Sistem Berbasis Mikroprosesor TIF212243 2 SKS",
+        "Hari/Jam": "Kamis 10:00 WIB",
+        "Matakuliah": "Kecerdasan Buatan Biomedis TKB213276 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Addin Suwastono, S.T., M.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/channel/19%3a88065667f7594099b28e107fc4967267%40thread.tacv2/General?groupId=4356de10-5a86-4947-a1cc-bc2538b15aaf&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/TLR59vfGGgQzXPrc8",
+        "Dosen": "Ir. Noor Akhmad Setiawan, S.T., M.T., Ph.D., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 8,9,10,11,12,13,14"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "181",
-        "Hari/Jam": "Kamis 13:00 WIB",
-        "Matakuliah": "Sistem Berbasis Mikroprosesor TIF212243 2 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Enas Dhuhri Kusuma, S.T., M.Eng.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Hari/Jam": "Kamis 10:00 WIB",
+        "Matakuliah": "Medan Elektromagnetik TKU212241 3 SKS",
+        "Kelas": "B",
+        "Dosen": "Ir. Sigit Basuki Wibowo, S.T., M.Eng., Ph.D., IPM.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/TLR59vfGGgQzXPrc8",
-            "WAG/Telegram: https://chat.whatsapp.com/DBE6RKh4PZPHEbBhfWa3jF"
+            "PRESENSI:",
+            "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
@@ -2897,11 +2897,11 @@
     },
     {
         "#": "182",
-        "Hari/Jam": "Kamis 15:30 WIB",
-        "Matakuliah": "Transformasi Digital TIF215212 3 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Dr.Eng. Ir. Sunu Wibirama, S.T., M.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Hari/Jam": "Kamis 10:00 WIB",
+        "Matakuliah": "Medan Elektromagnetik TKU212241 3 SKS",
+        "Kelas": "B",
+        "Dosen": "Iswandi, S.T., M.Eng.",
+        "URL": [
             "KELAS:",
             "PRESENSI:",
             "WAG/Telegram:"
@@ -2913,27 +2913,27 @@
     },
     {
         "#": "183",
-        "Hari/Jam": "Kamis 15:30 WIB",
-        "Matakuliah": "Transformasi Digital TIF215212 3 SKS",
+        "Hari/Jam": "Kamis 10:00 WIB",
+        "Matakuliah": "Operasi Sistem Tenaga Listrik TKE215208 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr. Sri Suning Kusumawardani, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://ugm-spark.webex.com/ugm-spark/j.php?MTID=maf9f883692d7dbed9f4ea08e479e980d",
+        "Dosen": "Ir. Lesnanto Multa Putranto, S.T., M.Eng., Ph.D., IPM.",
+        "URL": [
+            "KELAS:",
             "PRESENSI:",
-            "WAG/Telegram: https://t.me/joinchat/f7GN8Xpkuj83OTBl"
+            "WAG/Telegram:"
         ],
         "Keterangan": [
-            "Meeting number:170 805 4369Password:SemangatKelasTD",
+            "",
             "Pertemuan ke:"
         ]
     },
     {
         "#": "184",
-        "Hari/Jam": "Kamis 15:30 WIB",
-        "Matakuliah": "Transformasi Digital TIF215212 3 SKS",
+        "Hari/Jam": "Kamis 10:00 WIB",
+        "Matakuliah": "Operasi Sistem Tenaga Listrik TKE215208 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Lukito Edi Nugroho, M.Sc., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Ir. Sarjiya, S.T., M.T., Ph.D., IPU.",
+        "URL": [
             "KELAS:",
             "PRESENSI:",
             "WAG/Telegram:"
@@ -2945,61 +2945,61 @@
     },
     {
         "#": "185",
-        "Hari/Jam": "Kamis 15:30 WIB",
-        "Matakuliah": "Transformasi Digital TIF215212 3 SKS",
+        "Hari/Jam": "Kamis 10:00 WIB",
+        "Matakuliah": "Pemrograman Berorientasi Obyek TIF212143 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Bimo Sunarfri Hantono, S.T., M.Eng.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://ugm-spark.webex.com/ugm-spark/j.php?MTID=maf9f883692d7dbed9f4ea08e479e980d",
+        "Dosen": "Dr. Ir. Ridi Ferdiana, S.T., M.T., IPM.",
+        "URL": [
+            "KELAS:",
             "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 4,5,6"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "186",
-        "Hari/Jam": "Jum'at 07:15 WIB",
-        "Matakuliah": "Pemrograman Dasar TKU211131 3 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Dr. Indriana Hidayah, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/message/19:d86b54daff0b4eda8ab9defd47875fc1@thread.tacv2/1628840034564?tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56&groupId=bf57447d-49b2-4204-9b7c-f828577d5e1e&parentMessageId=1628840034564&teamName=Pemrograman%20Dasar%20-%202021%2F2022%20-%20Ganjil&channelName=ProgDas%20Gasal%202021-2022&createdTime=1628840034564",
-            "PRESENSI: https://forms.gle/g1CwyTQX719bMJ1W7",
+        "Hari/Jam": "Kamis 10:00 WIB",
+        "Matakuliah": "Persamaan Diferensial TKU211203 3 SKS",
+        "Kelas": "B",
+        "Dosen": "Dr.Eng. Ir. Adha Imam Cahyadi, S.T., M.Eng., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "187",
-        "Hari/Jam": "Jum'at 07:15 WIB",
-        "Matakuliah": "Pemrograman Dasar TKU211131 3 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Dr.Eng. Silmi Fauziati, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3a7ba5f1ecd9b649a5a1928a44895b2851%40thread.tacv2/conversations?groupId=bf57447d-49b2-4204-9b7c-f828577d5e1e&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/g1CwyTQX719bMJ1W7",
+        "Hari/Jam": "Kamis 10:00 WIB",
+        "Matakuliah": "Persamaan Diferensial TKU211203 3 SKS",
+        "Kelas": "B",
+        "Dosen": "Ahmad Ataka Awwalur Rizqi , S.T., Ph.D",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "ox4f2ah",
-            "Pertemuan ke: 4,5,6,7"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "188",
-        "Hari/Jam": "Jum'at 07:15 WIB",
-        "Matakuliah": "Pemrograman Dasar TKU211131 3 SKS",
+        "Hari/Jam": "Kamis 10:00 WIB",
+        "Matakuliah": "Sistem Kendali Cerdas TKE215218 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Warsun Najib, S.T., M.Sc.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Ir. Oyas Wahyunggoro, M.T., Ph.D.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/g1CwyTQX719bMJ1W7",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -3009,61 +3009,61 @@
     },
     {
         "#": "189",
-        "Hari/Jam": "Jum'at 07:15 WIB",
-        "Matakuliah": "Pemrosesan Bahasa Alami TIF215131 3 SKS",
+        "Hari/Jam": "Kamis 10:00 WIB",
+        "Matakuliah": "Teknik Antarmuka Dan Periferal TKE215119 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Syukron Abu Ishaq Alfarozi, S.T., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/nlp21",
-            "PRESENSI: https://forms.gle/rspK2T7bRnhSe1bd9",
+        "Dosen": "Ir. Addin Suwastono, S.T., M.Eng., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "190",
-        "Hari/Jam": "Jum'at 07:15 WIB",
-        "Matakuliah": "Pemrosesan Bahasa Alami TIF215131 3 SKS",
+        "Hari/Jam": "Kamis 10:00 WIB",
+        "Matakuliah": "Teknik Pengolahan Isyarat Biomedis TKB212202 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Teguh Bharata Adji, S.T., M.T., M.Eng., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/nlp21",
-            "PRESENSI: https://forms.gle/rspK2T7bRnhSe1bd9",
+        "Dosen": "Dr. Indah Soesanti, S.T., M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 8,9,10,11,12,13,14"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "191",
-        "Hari/Jam": "Jum'at 07:15 WIB",
-        "Matakuliah": "Robot Bergerak TKE215219 3 SKS",
+        "Hari/Jam": "Kamis 13:00 WIB",
+        "Matakuliah": "Audit TI Dan Tata Kelola Resiko TIF215216 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr.Eng. Igi Ardiyanto, S.T., M.Eng.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3aZUa7AHV_FaYcYB1OUw8GcmWi-o3J7VCMt9Ro37VR-Nw1%40thread.tacv2/conversations?groupId=0ce04169-136c-4a8f-9b73-0e4d4e36bb1b&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/sAiLaZu9Cc2kSd6K8",
+        "Dosen": "Ir. Sujoko Sumaryono, M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "d853x22",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "192",
-        "Hari/Jam": "Jum'at 07:15 WIB",
-        "Matakuliah": "Robot Bergerak TKE215219 3 SKS",
+        "Hari/Jam": "Kamis 13:00 WIB",
+        "Matakuliah": "Audit TI Dan Tata Kelola Resiko TIF215216 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ahmad Ataka Awwalur Rizqi , S.T., Ph.D",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Dani Adhipta, S.Si., M.T.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/sAiLaZu9Cc2kSd6K8",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -3073,13 +3073,13 @@
     },
     {
         "#": "193",
-        "Hari/Jam": "Jum'at 07:15 WIB",
-        "Matakuliah": "Robot Bergerak TKE215219 3 SKS",
+        "Hari/Jam": "Kamis 13:00 WIB",
+        "Matakuliah": "Mesin Listrik 2 TKE213202 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr.Eng. Ir. Adha Imam Cahyadi, S.T., M.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Ir. Tiyono, M.T.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/sAiLaZu9Cc2kSd6K8",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -3089,61 +3089,61 @@
     },
     {
         "#": "194",
-        "Hari/Jam": "Jum'at 07:15 WIB",
-        "Matakuliah": "Teknik Kendali TKU212243 3 SKS",
+        "Hari/Jam": "Kamis 13:00 WIB",
+        "Matakuliah": "Mesin Listrik 2 TKE213202 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr.Eng. Ir. Adha Imam Cahyadi, S.T., M.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3aV-2QhMm8s1V_qHErWmgIKOvZrStbnq5jkR7qr8RL2EE1%40thread.tacv2/conversations?groupId=e18b38fe-cbe9-46a4-86ce-9b3fb3378f3e&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/jQ6BYMGpqn9X2qdv8",
+        "Dosen": "Dr. Ir. M. Isnaeni Bambang Setyonegoro, M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "xaj67k6",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "195",
-        "Hari/Jam": "Jum'at 07:15 WIB",
-        "Matakuliah": "Teknik Kendali TKU212243 3 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Dzuhri Radityo Utomo, S.T, M.E., Ph.D",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://classroom.google.com/c/MzgwOTk1MjYwODk1?cjc=sweqapv",
-            "PRESENSI: https://forms.gle/jQ6BYMGpqn9X2qdv8",
+        "Hari/Jam": "Kamis 13:00 WIB",
+        "Matakuliah": "Probabilitas Dan Variabel Acak TKU211211 2 SKS",
+        "Kelas": "B",
+        "Dosen": "Dr. Dyonisius Dony Ariananda, S.T., M.Sc.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "Link Meeting : http://ugm.id/TeknikKendali21",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "196",
-        "Hari/Jam": "Jum'at 07:15 WIB",
-        "Matakuliah": "Topik Khusus Teknik Elektro TKE215201 3 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Ir. Lesnanto Multa Putranto, S.T., M.Eng., Ph.D., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: Join Zoom Meetinghttps://us02web.zoom.us/j/86417542313Meeting ID: 864 1754 2313",
-            "PRESENSI: https://forms.gle/4JDnPJhL8ZAXtNyH8",
+        "Hari/Jam": "Kamis 13:00 WIB",
+        "Matakuliah": "Probabilitas Dan Variabel Acak TKU211211 2 SKS",
+        "Kelas": "B",
+        "Dosen": "Naufal Hilmi Fauzan,",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "Meeting ID: 864 1754 2313",
-            "Pertemuan ke: 10,11"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "197",
-        "Hari/Jam": "Jum'at 07:15 WIB",
-        "Matakuliah": "Topik Khusus Teknik Elektro TKE215201 3 SKS",
+        "Hari/Jam": "Kamis 15:00 WIB",
+        "Matakuliah": "Transformasi Digital TIF215212 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Sigit Basuki Wibowo, S.T., M.Eng., Ph.D., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Dosen": "Ir. Lukito Edi Nugroho, M.Sc., Ph.D.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/4JDnPJhL8ZAXtNyH8",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -3153,46 +3153,46 @@
     },
     {
         "#": "198",
-        "Hari/Jam": "Jum'at 07:15 WIB",
-        "Matakuliah": "Topik Khusus Teknik Elektro TKE215201 3 SKS",
+        "Hari/Jam": "Kamis 15:00 WIB",
+        "Matakuliah": "Transformasi Digital TIF215212 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Agus Bejo, S.T., M.Eng., D.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://ugm-spark.webex.com/ugm-spark/j.php?MTID=m2007152d48d91ab47ec281a28e217119",
-            "PRESENSI: https://forms.gle/4JDnPJhL8ZAXtNyH8",
-            "WAG/Telegram: https://chat.whatsapp.com/Iyw7RelZqSAJacCfMQ9K70"
+        "Dosen": "Dr. Sri Suning Kusumawardani, S.T., M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
         ],
         "Keterangan": [
-            "Meeting number: 170 164 0787Password: vBMTGpNQ263Host key: 143449",
-            "Pertemuan ke: 5,6,7"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "199",
-        "Hari/Jam": "Jum'at 07:15 WIB",
-        "Matakuliah": "Topik Khusus Teknik Elektro TKE215201 3 SKS",
+        "Hari/Jam": "Kamis 15:00 WIB",
+        "Matakuliah": "Transformasi Digital TIF215212 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Roni Irnawan, S.T., M.Sc., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://us02web.zoom.us/j/86417542313",
-            "PRESENSI: https://forms.gle/4JDnPJhL8ZAXtNyH8",
+        "Dosen": "Syukron Abu Ishaq Alfarozi, S.T., Ph.D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "Topic: Topik Khusus Teknik ElektroTime: Aug 20, 2021 07:00 AM Jakarta Every week on Fri, 4 occurrence(s) Aug 20, 2021 07:00 AM Aug 27, 2021 07:00 AM Sep 3, 2021 07:00 AM Sep 10, 2021 07:00 AMPlease download and import the following iCalendar (.ics) files to your calendar system.Weekly: https://us02web.zoom.us/meeting/tZIpdu6tqjkpG9fVkG6S6Qj-TDe4RqVuO9Q8/ics?icsToken=98tyKuGuqjotH9CXsxiERpwABoj4KO_wiHpejfpbqhTCVRMFUwm7AsZHZoBuJs3_Join Zoom Meetinghttps://us02web.zoom.us/j/86417542313Meeting ID: 864 1754 2313",
-            "Pertemuan ke: 1,2,3,4"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "200",
-        "Hari/Jam": "Jum'at 07:15 WIB",
-        "Matakuliah": "Transmisi Dan Gardu Induk TKE215102 2 SKS",
+        "Hari/Jam": "Kamis 15:00 WIB",
+        "Matakuliah": "Transformasi Digital TIF215212 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Ir. Tiyono, M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://bit.ly/TGIGanjilTYN",
-            "PRESENSI: https://forms.gle/hwba23QnaAEoUiGi6",
-            "WAG/Telegram: https://chat.whatsapp.com/LyAL3bhKZi50pZEneIibVX"
+        "Dosen": "Bimo Sunarfri Hantono, S.T., M.Eng.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
@@ -3201,13 +3201,13 @@
     },
     {
         "#": "201",
-        "Hari/Jam": "Jum'at 07:15 WIB",
-        "Matakuliah": "Transmisi Dan Gardu Induk TKE215102 2 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Ir. Bambang Sugiyantoro, M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Hari/Jam": "Jum'at 07:00 WIB",
+        "Matakuliah": "Aljabar Linear TKU211202 3 SKS",
+        "Kelas": "B",
+        "Dosen": "Yohan Fajar Sidik,",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/hwba23QnaAEoUiGi6",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -3217,13 +3217,13 @@
     },
     {
         "#": "202",
-        "Hari/Jam": "Jum'at 13:00 WIB",
+        "Hari/Jam": "Jum'at 07:00 WIB",
         "Matakuliah": "Aljabar Linear TKU211202 3 SKS",
-        "Kelas": "A",
-        "Dosen Pengampu": "Dzuhri Radityo Utomo, S.T, M.E., Ph.D",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Kelas": "B",
+        "Dosen": "Husni Rois Ali, S.T., M.Eng., Ph.D.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/c4AhZDV3yZKdGJBBA",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -3233,45 +3233,45 @@
     },
     {
         "#": "203",
-        "Hari/Jam": "Jum'at 13:00 WIB",
-        "Matakuliah": "Aljabar Linear TKU211202 3 SKS",
+        "Hari/Jam": "Jum'at 07:00 WIB",
+        "Matakuliah": "Fisika Fluida, Kalor Dan Gelombang TKU211122 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Husni Rois Ali, S.T., M.Eng., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3atY70pegkvBN2nygcUYCHymxAdmWJmwtEgsarFrKoLm81%40thread.tacv2/conversations?groupId=0857aed7-8eba-4db5-8e95-3be4e9ca11e2&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/c4AhZDV3yZKdGJBBA",
-            "WAG/Telegram:"
-        ],
-        "Keterangan": [
-            "mrgc04n",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
-        ]
-    },
-    {
-        "#": "204",
-        "Hari/Jam": "Jum'at 13:00 WIB",
-        "Matakuliah": "Pemrograman Dasar TKU211131 3 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Dr. Indriana Hidayah, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/message/19:d86b54daff0b4eda8ab9defd47875fc1@thread.tacv2/1628840165135?tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56&groupId=bf57447d-49b2-4204-9b7c-f828577d5e1e&parentMessageId=1628840165135&teamName=Pemrograman%20Dasar%20-%202021%2F2022%20-%20Ganjil&channelName=ProgDas%20Gasal%202021-2022&createdTime=1628840165135",
-            "PRESENSI: https://forms.gle/dXEgEuduBwFmz8XN6",
+        "Dosen": "Dzuhri Radityo Utomo, S.T, M.E., Ph.D",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3"
+            "Pertemuan ke:"
+        ]
+    },
+    {
+        "#": "204",
+        "Hari/Jam": "Jum'at 07:00 WIB",
+        "Matakuliah": "Fisika Fluida, Kalor Dan Gelombang TKU211122 2 SKS",
+        "Kelas": "A",
+        "Dosen": "Ir. Eka Firmansyah, S.T., M.Eng., Ph.D., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
+        ],
+        "Keterangan": [
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "205",
-        "Hari/Jam": "Jum'at 13:00 WIB",
-        "Matakuliah": "Pemrograman Dasar TKU211131 3 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Warsun Najib, S.T., M.Sc.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Hari/Jam": "Jum'at 07:00 WIB",
+        "Matakuliah": "Kecerdasan Buatan TIF212244 3 SKS",
+        "Kelas": "A",
+        "Dosen": "Azkario Rizky Pratama, S.T., M.Eng., Ph.D.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/dXEgEuduBwFmz8XN6",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -3281,93 +3281,93 @@
     },
     {
         "#": "206",
-        "Hari/Jam": "Jum'at 13:00 WIB",
-        "Matakuliah": "Pemrograman Dasar TKU211131 3 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Dr.Eng. Silmi Fauziati, S.T., M.T.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3a7ba5f1ecd9b649a5a1928a44895b2851%40thread.tacv2/conversations?groupId=bf57447d-49b2-4204-9b7c-f828577d5e1e&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/dXEgEuduBwFmz8XN6",
+        "Hari/Jam": "Jum'at 07:00 WIB",
+        "Matakuliah": "Kecerdasan Buatan TIF212244 3 SKS",
+        "Kelas": "A",
+        "Dosen": "Dr.Eng. Ir. Sunu Wibirama, S.T., M.Eng., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "ox4f2ah",
-            "Pertemuan ke: 4,5,6,7"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "207",
-        "Hari/Jam": "Jum'at 13:00 WIB",
-        "Matakuliah": "Rekayasa Data TIF213145 3 SKS",
+        "Hari/Jam": "Jum'at 07:00 WIB",
+        "Matakuliah": "Sistem Mikroprosesor TKU212244 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Bimo Sunarfri Hantono, S.T., M.Eng.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/dataengineering2021",
-            "PRESENSI: https://forms.gle/vmYRauz522TtekoJA",
+        "Dosen": "Ir. Addin Suwastono, S.T., M.Eng., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "208",
-        "Hari/Jam": "Jum'at 13:00 WIB",
-        "Matakuliah": "Rekayasa Data TIF213145 3 SKS",
+        "Hari/Jam": "Jum'at 07:00 WIB",
+        "Matakuliah": "Sistem Mikroprosesor TKU212244 3 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Azkario Rizky Pratama, S.T., M.Eng., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/dataengineering2021",
-            "PRESENSI: https://forms.gle/vmYRauz522TtekoJA",
+        "Dosen": "Ir. Agus Bejo, S.T., M.Eng., D.Eng., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "209",
-        "Hari/Jam": "Jum'at 13:00 WIB",
-        "Matakuliah": "Rekayasa Data TIF213145 3 SKS",
+        "Hari/Jam": "Jum'at 07:00 WIB",
+        "Matakuliah": "Studium Generale UNU214201 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Syukron Abu Ishaq Alfarozi, S.T., Ph.D.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: http://ugm.id/dataengineering2021",
-            "PRESENSI: https://forms.gle/vmYRauz522TtekoJA",
+        "Dosen": "Ir. Prapto Nugroho, S.T., M.Eng., D.Eng., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
             "",
-            "Pertemuan ke: 9,10,11,12,13,14"
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "210",
-        "Hari/Jam": "Jum'at 13:00 WIB",
-        "Matakuliah": "Sistem Komunikasi TKE213201 3 SKS",
+        "Hari/Jam": "Jum'at 07:00 WIB",
+        "Matakuliah": "Studium Generale UNU214201 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr. Dyonisius Dony Ariananda, S.T., M.Sc.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/meetup-join/19%3aG3LK-BFx5VDv1G9Eg5x2hRakzBmeO-aR5KTUeCR7w3c1%40thread.tacv2/1628936170240?context=%7b%22Tid%22%3a%22af2c0734-cb42-464f-b6bf-2a241b6ada56%22%2c%22Oid%22%3a%229fec335c-f272-47cc-9d2a-5a02492898c3%22%7d",
-            "PRESENSI: https://forms.gle/s5FAJKBbHzPVxwAH7",
+        "Dosen": "Ir. Lesnanto Multa Putranto, S.T., M.Eng., Ph.D., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "Kode Kelas: ghgwaib",
-            "Pertemuan ke: 1,2,3,4,5,6,7"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "211",
-        "Hari/Jam": "Jum'at 13:00 WIB",
-        "Matakuliah": "Sistem Komunikasi TKE213201 3 SKS",
+        "Hari/Jam": "Jum'at 07:00 WIB",
+        "Matakuliah": "Studium Generale UNU214201 2 SKS",
         "Kelas": "A",
-        "Dosen Pengampu": "Dr. Ir. Risanuri Hidayat, M.Sc., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/meetup-join/19%3aG3LK-BFx5VDv1G9Eg5x2hRakzBmeO-aR5KTUeCR7w3c1%40thread.tacv2/1628936170240?context=%7b%22Tid%22%3a%22af2c0734-cb42-464f-b6bf-2a241b6ada56%22%2c%22Oid%22%3a%229fec335c-f272-47cc-9d2a-5a02492898c3%22%7d",
-            "PRESENSI: https://forms.gle/s5FAJKBbHzPVxwAH7",
+        "Dosen": "Fikri Waskito, S.T., M.Eng.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -3377,29 +3377,29 @@
     },
     {
         "#": "212",
-        "Hari/Jam": "Jum'at 15:30 WIB",
-        "Matakuliah": "Persamaan Diferensial TKU211203 3 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Iswandi, S.T., M.Eng.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/channel/19%3aQ-gn7I-F2n6HuJnEwBsawbZdvIEiECb48nwkHHVjD3k1%40thread.tacv2/General?groupId=30336a36-d0b1-4dff-ad4b-efb0ac8cbac2&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/N1hXYe8fVtVcAy6dA",
+        "Hari/Jam": "Jum'at 07:00 WIB",
+        "Matakuliah": "Studium Generale UNU214201 2 SKS",
+        "Kelas": "A",
+        "Dosen": "Dr.Eng. Silmi Fauziati, S.T., M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "https://teams.microsoft.com/l/meetup-join/19%3aQ-gn7I-F2n6HuJnEwBsawbZdvIEiECb48nwkHHVjD3k1%40thread.tacv2/1628844663078?context=%7b%22Tid%22%3a%22af2c0734-cb42-464f-b6bf-2a241b6ada56%22%2c%22Oid%22%3a%222a5d1027-976d-43e1-ab29-5c189bd5e555%22%7d",
-            "Pertemuan ke: 1,2,3"
+            "",
+            "Pertemuan ke:"
         ]
     },
     {
         "#": "213",
-        "Hari/Jam": "Jum'at 15:30 WIB",
-        "Matakuliah": "Persamaan Diferensial TKU211203 3 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Ahmad Ataka Awwalur Rizqi , S.T., Ph.D",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
+        "Hari/Jam": "Jum'at 07:00 WIB",
+        "Matakuliah": "Teori Vektor Dan Matriks TKU211104 2 SKS",
+        "Kelas": "A",
+        "Dosen": "Dr.Eng. Ir. Adha Imam Cahyadi, S.T., M.Eng., IPM.",
+        "URL": [
             "KELAS:",
-            "PRESENSI: https://forms.gle/N1hXYe8fVtVcAy6dA",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
@@ -3409,18 +3409,194 @@
     },
     {
         "#": "214",
-        "Hari/Jam": "Jum'at 15:30 WIB",
-        "Matakuliah": "Persamaan Diferensial TKU211203 3 SKS",
-        "Kelas": "B",
-        "Dosen Pengampu": "Dr.Eng. Ir. Adha Imam Cahyadi, S.T., M.Eng., IPM.",
-        "URL Kelas, Presensi, dan Join WAG/Telegram": [
-            "KELAS: https://teams.microsoft.com/l/team/19%3aQ-gn7I-F2n6HuJnEwBsawbZdvIEiECb48nwkHHVjD3k1%40thread.tacv2/conversations?groupId=30336a36-d0b1-4dff-ad4b-efb0ac8cbac2&tenantId=af2c0734-cb42-464f-b6bf-2a241b6ada56",
-            "PRESENSI: https://forms.gle/N1hXYe8fVtVcAy6dA",
+        "Hari/Jam": "Jum'at 07:00 WIB",
+        "Matakuliah": "Teori Vektor Dan Matriks TKU211104 2 SKS",
+        "Kelas": "A",
+        "Dosen": "Syukron Abu Ishaq Alfarozi, S.T., Ph.D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
             "WAG/Telegram:"
         ],
         "Keterangan": [
-            "xhtxgb2",
-            "Pertemuan ke: 1,2,3,4,5,6,7,8,9,10,11,12,13,14"
+            "",
+            "Pertemuan ke:"
+        ]
+    },
+    {
+        "#": "215",
+        "Hari/Jam": "Jum'at 07:00 WIB",
+        "Matakuliah": "Teori Vektor Dan Matriks TKU211104 2 SKS",
+        "Kelas": "A",
+        "Dosen": "Naufal Hilmi Fauzan,",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
+        ],
+        "Keterangan": [
+            "",
+            "Pertemuan ke:"
+        ]
+    },
+    {
+        "#": "216",
+        "Hari/Jam": "Jum'at 13:00 WIB",
+        "Matakuliah": "Biologi TKB211201 2 SKS",
+        "Kelas": "A",
+        "Dosen": "Dr. Miftahul Ilmi, M.Si.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
+        ],
+        "Keterangan": [
+            "",
+            "Pertemuan ke:"
+        ]
+    },
+    {
+        "#": "217",
+        "Hari/Jam": "Jum'at 13:00 WIB",
+        "Matakuliah": "Desain Listrik Industri TKE215106 2 SKS",
+        "Kelas": "A",
+        "Dosen": "Ir. Tumiran, M. Eng., Ph. D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
+        ],
+        "Keterangan": [
+            "",
+            "Pertemuan ke:"
+        ]
+    },
+    {
+        "#": "218",
+        "Hari/Jam": "Jum'at 13:00 WIB",
+        "Matakuliah": "Desain Listrik Industri TKE215106 2 SKS",
+        "Kelas": "A",
+        "Dosen": "Fikri Waskito, S.T., M.Eng.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
+        ],
+        "Keterangan": [
+            "",
+            "Pertemuan ke:"
+        ]
+    },
+    {
+        "#": "219",
+        "Hari/Jam": "Jum'at 13:00 WIB",
+        "Matakuliah": "Pengukuran Dan Instrumentasi TKE212203 2 SKS",
+        "Kelas": "A",
+        "Dosen": "Ir. Oyas Wahyunggoro, M.T., Ph.D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
+        ],
+        "Keterangan": [
+            "",
+            "Pertemuan ke:"
+        ]
+    },
+    {
+        "#": "220",
+        "Hari/Jam": "Jum'at 13:00 WIB",
+        "Matakuliah": "Robotika Industri TKE215220 3 SKS",
+        "Kelas": "A",
+        "Dosen": "Dr.Eng. Ir. Adha Imam Cahyadi, S.T., M.Eng., IPM.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
+        ],
+        "Keterangan": [
+            "",
+            "Pertemuan ke:"
+        ]
+    },
+    {
+        "#": "221",
+        "Hari/Jam": "Jum'at 13:00 WIB",
+        "Matakuliah": "Robotika Industri TKE215220 3 SKS",
+        "Kelas": "A",
+        "Dosen": "Ahmad Ataka Awwalur Rizqi , S.T., Ph.D",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
+        ],
+        "Keterangan": [
+            "",
+            "Pertemuan ke:"
+        ]
+    },
+    {
+        "#": "222",
+        "Hari/Jam": "Jum'at 13:00 WIB",
+        "Matakuliah": "Sistem Berbasis Internet Of Things TIF215217 3 SKS",
+        "Kelas": "A",
+        "Dosen": "I Wayan Mustika, S.T., M.Eng., Ph.D.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
+        ],
+        "Keterangan": [
+            "",
+            "Pertemuan ke:"
+        ]
+    },
+    {
+        "#": "223",
+        "Hari/Jam": "Jum'at 13:00 WIB",
+        "Matakuliah": "Sistem Berbasis Internet Of Things TIF215217 3 SKS",
+        "Kelas": "A",
+        "Dosen": "Enas Dhuhri Kusuma, S.T., M.Eng.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
+        ],
+        "Keterangan": [
+            "",
+            "Pertemuan ke:"
+        ]
+    },
+    {
+        "#": "224",
+        "Hari/Jam": "Jum'at 13:00 WIB",
+        "Matakuliah": "Teknologi Basis Data TIF212242 3 SKS",
+        "Kelas": "A",
+        "Dosen": "Dr.Eng. Silmi Fauziati, S.T., M.T.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
+        ],
+        "Keterangan": [
+            "",
+            "Pertemuan ke:"
+        ]
+    },
+    {
+        "#": "225",
+        "Hari/Jam": "Jum'at 13:00 WIB",
+        "Matakuliah": "Teknologi Basis Data TIF212242 3 SKS",
+        "Kelas": "A",
+        "Dosen": "Warsun Najib, S.T., M.Sc.",
+        "URL": [
+            "KELAS:",
+            "PRESENSI:",
+            "WAG/Telegram:"
+        ],
+        "Keterangan": [
+            "",
+            "Pertemuan ke:"
         ]
     }
 ]

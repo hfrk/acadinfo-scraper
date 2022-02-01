@@ -3,8 +3,12 @@ import time
 import re
 import json
 
+import os
+from dotenv import load_dotenv
+load_dotenv()
 # your acadinfo username and password
-CREDENTIALS = { 'username': '', 'password': ''}
+CREDENTIALS = { 'username': os.getenv("SIMASTER_USERNAME"),
+                'password': os.getenv("SIMASTER_PASSWORD")}
 
 def scrap_acadinfo():
     def dictify(string):
@@ -31,7 +35,6 @@ def scrap_acadinfo():
 
     session.post("https://acadinfo.jteti.ugm.ac.id/index.php/auth/login", data = CREDENTIALS)
     html = session.get("https://acadinfo.jteti.ugm.ac.id/index.php/mhs/jadwalkuliah").text
-
     thead = dictify(html.split('</thead>')[0].split('<thead')[1].split('>',1)[1])
     tbody = dictify(html.split('</tbody>')[0].split('<tbody')[1].split('>',1)[1])
     #thead = json.loads(thead) # long dict keys
